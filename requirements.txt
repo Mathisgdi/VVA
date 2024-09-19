@@ -8,3 +8,5 @@ scipy
 fastf1
 joblib
 fastapi
+pydantic
+uvicorn
