@@ -11,7 +11,7 @@ async def create_proba(request: Request):
 
     try:
         data = await request.json()
-
+        df = pd.DataFrame(data)
     except Exception:
         raise HTTPException(status_code=400)
 
@@ -21,7 +21,7 @@ async def create_proba(request: Request):
     # predictions  = model.predict(data)
     # print(predictions)
 
-    predictions_proba = model.predict_proba(data)
+    predictions_proba = model.predict_proba(df)
 
     # print(predictions_proba)
 
@@ -49,4 +49,4 @@ async def create_proba(request: Request):
         return assigned_positions
 
     unique_positions = assign_unique_positions(predictions_proba)
-    print(unique_positions)
+    return {"prédiction": unique_positions}
