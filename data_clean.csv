@@ -1,0 +1,1425 @@
+id,date,name_GP,surname,name,grid,target,AirTemp,Humidity,Rainfall
+23782,2018,Australian Grand Prix,Vettel,Ferrari,3,1,24.08,30.92,0.05
+23783,2018,Australian Grand Prix,Hamilton,Mercedes,1,2,24.08,30.92,0.05
+23784,2018,Australian Grand Prix,Räikkönen,Ferrari,2,3,24.08,30.92,0.05
+23785,2018,Australian Grand Prix,Ricciardo,Red Bull,8,4,24.08,30.92,0.05
+23786,2018,Australian Grand Prix,Alonso,McLaren,10,5,24.08,30.92,0.05
+23787,2018,Australian Grand Prix,Verstappen,Red Bull,4,6,24.08,30.92,0.05
+23788,2018,Australian Grand Prix,Hülkenberg,Renault,7,7,24.08,30.92,0.05
+23789,2018,Australian Grand Prix,Bottas,Mercedes,15,8,24.08,30.92,0.05
+23790,2018,Australian Grand Prix,Vandoorne,McLaren,11,9,24.08,30.92,0.05
+23791,2018,Australian Grand Prix,Sainz,Renault,9,10,24.08,30.92,0.05
+23792,2018,Australian Grand Prix,Pérez,Force India,12,11,24.08,30.92,0.05
+23793,2018,Australian Grand Prix,Ocon,Force India,14,12,24.08,30.92,0.05
+23794,2018,Australian Grand Prix,Leclerc,Sauber,18,13,24.08,30.92,0.05
+23795,2018,Australian Grand Prix,Stroll,Williams,13,14,24.08,30.92,0.05
+23802,2018,Bahrain Grand Prix,Vettel,Ferrari,1,1,27.98,47.36,0.0
+23803,2018,Bahrain Grand Prix,Bottas,Mercedes,3,2,27.98,47.36,0.0
+23804,2018,Bahrain Grand Prix,Hamilton,Mercedes,9,3,27.98,47.36,0.0
+23805,2018,Bahrain Grand Prix,Gasly,Toro Rosso,5,4,27.98,47.36,0.0
+23806,2018,Bahrain Grand Prix,Magnussen,Haas F1 Team,6,5,27.98,47.36,0.0
+23807,2018,Bahrain Grand Prix,Hülkenberg,Renault,7,6,27.98,47.36,0.0
+23822,2018,Chinese Grand Prix,Ricciardo,Red Bull,6,1,19.45,24.09,0.02
+23823,2018,Chinese Grand Prix,Bottas,Mercedes,3,2,19.45,24.09,0.02
+23824,2018,Chinese Grand Prix,Räikkönen,Ferrari,2,3,19.45,24.09,0.02
+23825,2018,Chinese Grand Prix,Hamilton,Mercedes,4,4,19.45,24.09,0.02
+23826,2018,Chinese Grand Prix,Verstappen,Red Bull,5,5,19.45,24.09,0.02
+23827,2018,Chinese Grand Prix,Hülkenberg,Renault,7,6,19.45,24.09,0.02
+23828,2018,Chinese Grand Prix,Alonso,McLaren,13,7,19.45,24.09,0.02
+23829,2018,Chinese Grand Prix,Vettel,Ferrari,1,8,19.45,24.09,0.02
+23830,2018,Chinese Grand Prix,Sainz,Renault,9,9,19.45,24.09,0.02
+23831,2018,Chinese Grand Prix,Magnussen,Haas F1 Team,11,10,19.45,24.09,0.02
+23832,2018,Chinese Grand Prix,Ocon,Force India,12,11,19.45,24.09,0.02
+23833,2018,Chinese Grand Prix,Pérez,Force India,8,12,19.45,24.09,0.02
+23834,2018,Chinese Grand Prix,Vandoorne,McLaren,14,13,19.45,24.09,0.02
+23835,2018,Chinese Grand Prix,Stroll,Williams,18,14,19.45,24.09,0.02
+23836,2018,Chinese Grand Prix,Sirotkin,Williams,16,15,19.45,24.09,0.02
+23837,2018,Chinese Grand Prix,Ericsson,Sauber,20,16,19.45,24.09,0.02
+23838,2018,Chinese Grand Prix,Grosjean,Haas F1 Team,10,17,19.45,24.09,0.02
+23839,2018,Chinese Grand Prix,Gasly,Toro Rosso,17,18,19.45,24.09,0.02
+23840,2018,Chinese Grand Prix,Leclerc,Sauber,19,19,19.45,24.09,0.02
+23842,2018,Azerbaijan Grand Prix,Hamilton,Mercedes,2,1,16.66,45.65,0.0
+23843,2018,Azerbaijan Grand Prix,Räikkönen,Ferrari,6,2,16.66,45.65,0.0
+23844,2018,Azerbaijan Grand Prix,Pérez,Force India,8,3,16.66,45.65,0.0
+23845,2018,Azerbaijan Grand Prix,Vettel,Ferrari,1,4,16.66,45.65,0.0
+23846,2018,Azerbaijan Grand Prix,Sainz,Renault,9,5,16.66,45.65,0.0
+23847,2018,Azerbaijan Grand Prix,Leclerc,Sauber,13,6,16.66,45.65,0.0
+23848,2018,Azerbaijan Grand Prix,Alonso,McLaren,12,7,16.66,45.65,0.0
+23849,2018,Azerbaijan Grand Prix,Stroll,Williams,10,8,16.66,45.65,0.0
+23850,2018,Azerbaijan Grand Prix,Vandoorne,McLaren,16,9,16.66,45.65,0.0
+23851,2018,Azerbaijan Grand Prix,Hartley,Toro Rosso,19,10,16.66,45.65,0.0
+23852,2018,Azerbaijan Grand Prix,Ericsson,Sauber,18,11,16.66,45.65,0.0
+23853,2018,Azerbaijan Grand Prix,Gasly,Toro Rosso,17,12,16.66,45.65,0.0
+23854,2018,Azerbaijan Grand Prix,Magnussen,Haas F1 Team,15,13,16.66,45.65,0.0
+23862,2018,Spanish Grand Prix,Hamilton,Mercedes,1,1,16.05,52.29,0.79
+23863,2018,Spanish Grand Prix,Bottas,Mercedes,2,2,16.05,52.29,0.79
+23864,2018,Spanish Grand Prix,Verstappen,Red Bull,5,3,16.05,52.29,0.79
+23865,2018,Spanish Grand Prix,Vettel,Ferrari,3,4,16.05,52.29,0.79
+23866,2018,Spanish Grand Prix,Ricciardo,Red Bull,6,5,16.05,52.29,0.79
+23882,2018,Monaco Grand Prix,Ricciardo,Red Bull,1,1,26.64,50.89,0.12
+23883,2018,Monaco Grand Prix,Vettel,Ferrari,2,2,26.64,50.89,0.12
+23884,2018,Monaco Grand Prix,Hamilton,Mercedes,3,3,26.64,50.89,0.12
+23885,2018,Monaco Grand Prix,Räikkönen,Ferrari,4,4,26.64,50.89,0.12
+23886,2018,Monaco Grand Prix,Bottas,Mercedes,5,5,26.64,50.89,0.12
+23887,2018,Monaco Grand Prix,Ocon,Force India,6,6,26.64,50.89,0.12
+23888,2018,Monaco Grand Prix,Gasly,Toro Rosso,10,7,26.64,50.89,0.12
+23889,2018,Monaco Grand Prix,Hülkenberg,Renault,11,8,26.64,50.89,0.12
+23890,2018,Monaco Grand Prix,Verstappen,Red Bull,20,9,26.64,50.89,0.12
+23891,2018,Monaco Grand Prix,Sainz,Renault,8,10,26.64,50.89,0.12
+23892,2018,Monaco Grand Prix,Ericsson,Sauber,16,11,26.64,50.89,0.12
+23893,2018,Monaco Grand Prix,Pérez,Force India,9,12,26.64,50.89,0.12
+23894,2018,Monaco Grand Prix,Magnussen,Haas F1 Team,19,13,26.64,50.89,0.12
+23902,2018,Canadian Grand Prix,Vettel,Ferrari,1,1,20.52,27.83,0.0
+23903,2018,Canadian Grand Prix,Bottas,Mercedes,2,2,20.52,27.83,0.0
+23904,2018,Canadian Grand Prix,Verstappen,Red Bull,3,3,20.52,27.83,0.0
+23905,2018,Canadian Grand Prix,Ricciardo,Red Bull,6,4,20.52,27.83,0.0
+23906,2018,Canadian Grand Prix,Hamilton,Mercedes,4,5,20.52,27.83,0.0
+23907,2018,Canadian Grand Prix,Räikkönen,Ferrari,5,6,20.52,27.83,0.0
+23922,2018,French Grand Prix,Hamilton,Mercedes,1,1,24.55,49.05,0.01
+23923,2018,French Grand Prix,Verstappen,Red Bull,4,2,24.55,49.05,0.01
+23924,2018,French Grand Prix,Räikkönen,Ferrari,6,3,24.55,49.05,0.01
+23925,2018,French Grand Prix,Ricciardo,Red Bull,5,4,24.55,49.05,0.01
+23926,2018,French Grand Prix,Vettel,Ferrari,3,5,24.55,49.05,0.01
+23927,2018,French Grand Prix,Magnussen,Haas F1 Team,9,6,24.55,49.05,0.01
+23928,2018,French Grand Prix,Bottas,Mercedes,2,7,24.55,49.05,0.01
+23929,2018,French Grand Prix,Sainz,Renault,7,8,24.55,49.05,0.01
+23930,2018,French Grand Prix,Hülkenberg,Renault,12,9,24.55,49.05,0.01
+23931,2018,French Grand Prix,Leclerc,Sauber,8,10,24.55,49.05,0.01
+23942,2018,Austrian Grand Prix,Verstappen,Red Bull,4,1,23.18,37.14,0.0
+23943,2018,Austrian Grand Prix,Räikkönen,Ferrari,3,2,23.18,37.14,0.0
+23944,2018,Austrian Grand Prix,Vettel,Ferrari,6,3,23.18,37.14,0.0
+23962,2018,British Grand Prix,Vettel,Ferrari,2,1,27.43,38.74,0.0
+23963,2018,British Grand Prix,Hamilton,Mercedes,1,2,27.43,38.74,0.0
+23964,2018,British Grand Prix,Räikkönen,Ferrari,3,3,27.43,38.74,0.0
+23965,2018,British Grand Prix,Bottas,Mercedes,4,4,27.43,38.74,0.0
+23966,2018,British Grand Prix,Ricciardo,Red Bull,6,5,27.43,38.74,0.0
+23967,2018,British Grand Prix,Hülkenberg,Renault,11,6,27.43,38.74,0.0
+23968,2018,British Grand Prix,Ocon,Force India,10,7,27.43,38.74,0.0
+23969,2018,British Grand Prix,Alonso,McLaren,13,8,27.43,38.74,0.0
+23970,2018,British Grand Prix,Magnussen,Haas F1 Team,7,9,27.43,38.74,0.0
+23971,2018,British Grand Prix,Pérez,Force India,12,10,27.43,38.74,0.0
+23972,2018,British Grand Prix,Vandoorne,McLaren,17,11,27.43,38.74,0.0
+23973,2018,British Grand Prix,Stroll,Williams,19,12,27.43,38.74,0.0
+23974,2018,British Grand Prix,Gasly,Toro Rosso,14,13,27.43,38.74,0.0
+23975,2018,British Grand Prix,Sirotkin,Williams,18,14,27.43,38.74,0.0
+23983,2018,German Grand Prix,Hamilton,Mercedes,14,1,26.4,54.81,0.26
+23984,2018,German Grand Prix,Bottas,Mercedes,2,2,26.4,54.81,0.26
+23985,2018,German Grand Prix,Räikkönen,Ferrari,3,3,26.4,54.81,0.26
+23986,2018,German Grand Prix,Verstappen,Red Bull,4,4,26.4,54.81,0.26
+23987,2018,German Grand Prix,Hülkenberg,Renault,7,5,26.4,54.81,0.26
+23988,2018,German Grand Prix,Grosjean,Haas F1 Team,6,6,26.4,54.81,0.26
+23989,2018,German Grand Prix,Pérez,Force India,10,7,26.4,54.81,0.26
+23990,2018,German Grand Prix,Ocon,Force India,15,8,26.4,54.81,0.26
+23991,2018,German Grand Prix,Ericsson,Sauber,13,9,26.4,54.81,0.26
+23992,2018,German Grand Prix,Hartley,Toro Rosso,17,10,26.4,54.81,0.26
+23993,2018,German Grand Prix,Magnussen,Haas F1 Team,5,11,26.4,54.81,0.26
+23994,2018,German Grand Prix,Sainz,Renault,8,12,26.4,54.81,0.26
+23995,2018,German Grand Prix,Vandoorne,McLaren,19,13,26.4,54.81,0.26
+24003,2018,Hungarian Grand Prix,Hamilton,Mercedes,1,1,33.76,33.01,0.0
+24004,2018,Hungarian Grand Prix,Vettel,Ferrari,4,2,33.76,33.01,0.0
+24005,2018,Hungarian Grand Prix,Räikkönen,Ferrari,3,3,33.76,33.01,0.0
+24006,2018,Hungarian Grand Prix,Ricciardo,Red Bull,12,4,33.76,33.01,0.0
+24007,2018,Hungarian Grand Prix,Bottas,Mercedes,2,5,33.76,33.01,0.0
+24008,2018,Hungarian Grand Prix,Gasly,Toro Rosso,6,6,33.76,33.01,0.0
+24023,2018,Belgian Grand Prix,Vettel,Ferrari,2,1,17.33,37.7,0.0
+24024,2018,Belgian Grand Prix,Hamilton,Mercedes,1,2,17.33,37.7,0.0
+24025,2018,Belgian Grand Prix,Verstappen,Red Bull,7,3,17.33,37.7,0.0
+24026,2018,Belgian Grand Prix,Bottas,Mercedes,19,4,17.33,37.7,0.0
+24027,2018,Belgian Grand Prix,Pérez,Force India,4,5,17.33,37.7,0.0
+24028,2018,Belgian Grand Prix,Ocon,Force India,3,6,17.33,37.7,0.0
+24029,2018,Belgian Grand Prix,Grosjean,Haas F1 Team,5,7,17.33,37.7,0.0
+24030,2018,Belgian Grand Prix,Magnussen,Haas F1 Team,9,8,17.33,37.7,0.0
+24031,2018,Belgian Grand Prix,Gasly,Toro Rosso,10,9,17.33,37.7,0.0
+24043,2018,Italian Grand Prix,Hamilton,Mercedes,3,1,22.19,63.81,0.23
+24044,2018,Italian Grand Prix,Räikkönen,Ferrari,1,2,22.19,63.81,0.23
+24045,2018,Italian Grand Prix,Bottas,Mercedes,4,3,22.19,63.81,0.23
+24046,2018,Italian Grand Prix,Vettel,Ferrari,2,4,22.19,63.81,0.23
+24047,2018,Italian Grand Prix,Verstappen,Red Bull,5,5,22.19,63.81,0.23
+24048,2018,Italian Grand Prix,Ocon,Force India,8,6,22.19,63.81,0.23
+24049,2018,Italian Grand Prix,Pérez,Force India,14,7,22.19,63.81,0.23
+24050,2018,Italian Grand Prix,Sainz,Renault,7,8,22.19,63.81,0.23
+24063,2018,Singapore Grand Prix,Hamilton,Mercedes,1,1,29.87,66.04,0.0
+24064,2018,Singapore Grand Prix,Verstappen,Red Bull,2,2,29.87,66.04,0.0
+24065,2018,Singapore Grand Prix,Vettel,Ferrari,3,3,29.87,66.04,0.0
+24066,2018,Singapore Grand Prix,Bottas,Mercedes,4,4,29.87,66.04,0.0
+24067,2018,Singapore Grand Prix,Räikkönen,Ferrari,5,5,29.87,66.04,0.0
+24068,2018,Singapore Grand Prix,Ricciardo,Red Bull,6,6,29.87,66.04,0.0
+24069,2018,Singapore Grand Prix,Alonso,McLaren,11,7,29.87,66.04,0.0
+24083,2018,Russian Grand Prix,Hamilton,Mercedes,2,1,24.78,61.31,0.02
+24084,2018,Russian Grand Prix,Bottas,Mercedes,1,2,24.78,61.31,0.02
+24085,2018,Russian Grand Prix,Vettel,Ferrari,3,3,24.78,61.31,0.02
+24086,2018,Russian Grand Prix,Räikkönen,Ferrari,4,4,24.78,61.31,0.02
+24087,2018,Russian Grand Prix,Verstappen,Red Bull,19,5,24.78,61.31,0.02
+24088,2018,Russian Grand Prix,Ricciardo,Red Bull,18,6,24.78,61.31,0.02
+24089,2018,Russian Grand Prix,Leclerc,Sauber,7,7,24.78,61.31,0.02
+24103,2018,Japanese Grand Prix,Hamilton,Mercedes,1,1,28.26,50.52,0.0
+24104,2018,Japanese Grand Prix,Bottas,Mercedes,2,2,28.26,50.52,0.0
+24105,2018,Japanese Grand Prix,Verstappen,Red Bull,3,3,28.26,50.52,0.0
+24106,2018,Japanese Grand Prix,Ricciardo,Red Bull,15,4,28.26,50.52,0.0
+24107,2018,Japanese Grand Prix,Räikkönen,Ferrari,4,5,28.26,50.52,0.0
+24108,2018,Japanese Grand Prix,Vettel,Ferrari,8,6,28.26,50.52,0.0
+24109,2018,Japanese Grand Prix,Pérez,Force India,9,7,28.26,50.52,0.0
+24110,2018,Japanese Grand Prix,Grosjean,Haas F1 Team,5,8,28.26,50.52,0.0
+24111,2018,Japanese Grand Prix,Ocon,Force India,11,9,28.26,50.52,0.0
+24123,2018,United States Grand Prix,Räikkönen,Ferrari,2,1,21.93,37.56,0.0
+24124,2018,United States Grand Prix,Verstappen,Red Bull,18,2,21.93,37.56,0.0
+24125,2018,United States Grand Prix,Hamilton,Mercedes,1,3,21.93,37.56,0.0
+24126,2018,United States Grand Prix,Vettel,Ferrari,5,4,21.93,37.56,0.0
+24127,2018,United States Grand Prix,Bottas,Mercedes,3,5,21.93,37.56,0.0
+24128,2018,United States Grand Prix,Hülkenberg,Renault,7,6,21.93,37.56,0.0
+24129,2018,United States Grand Prix,Sainz,Renault,11,7,21.93,37.56,0.0
+24130,2018,United States Grand Prix,Pérez,Force India,10,8,21.93,37.56,0.0
+24143,2018,Mexican Grand Prix,Verstappen,Red Bull,2,1,20.12,50.71,0.0
+24144,2018,Mexican Grand Prix,Vettel,Ferrari,4,2,20.12,50.71,0.0
+24145,2018,Mexican Grand Prix,Räikkönen,Ferrari,6,3,20.12,50.71,0.0
+24146,2018,Mexican Grand Prix,Hamilton,Mercedes,3,4,20.12,50.71,0.0
+24163,2018,Brazilian Grand Prix,Hamilton,Mercedes,1,1,23.77,75.41,0.0
+24164,2018,Brazilian Grand Prix,Verstappen,Red Bull,5,2,23.77,75.41,0.0
+24165,2018,Brazilian Grand Prix,Räikkönen,Ferrari,4,3,23.77,75.41,0.0
+24166,2018,Brazilian Grand Prix,Ricciardo,Red Bull,11,4,23.77,75.41,0.0
+24167,2018,Brazilian Grand Prix,Bottas,Mercedes,3,5,23.77,75.41,0.0
+24168,2018,Brazilian Grand Prix,Vettel,Ferrari,2,6,23.77,75.41,0.0
+24169,2018,Brazilian Grand Prix,Leclerc,Sauber,7,7,23.77,75.41,0.0
+24170,2018,Brazilian Grand Prix,Grosjean,Haas F1 Team,8,8,23.77,75.41,0.0
+24171,2018,Brazilian Grand Prix,Magnussen,Haas F1 Team,10,9,23.77,75.41,0.0
+24183,2018,Abu Dhabi Grand Prix,Hamilton,Mercedes,1,1,31.27,45.44,0.04
+24184,2018,Abu Dhabi Grand Prix,Vettel,Ferrari,3,2,31.27,45.44,0.04
+24185,2018,Abu Dhabi Grand Prix,Verstappen,Red Bull,6,3,31.27,45.44,0.04
+24186,2018,Abu Dhabi Grand Prix,Ricciardo,Red Bull,5,4,31.27,45.44,0.04
+24187,2018,Abu Dhabi Grand Prix,Bottas,Mercedes,2,5,31.27,45.44,0.04
+24188,2018,Abu Dhabi Grand Prix,Sainz,Renault,11,6,31.27,45.44,0.04
+24189,2018,Abu Dhabi Grand Prix,Leclerc,Sauber,8,7,31.27,45.44,0.04
+24190,2018,Abu Dhabi Grand Prix,Pérez,Force India,14,8,31.27,45.44,0.04
+24203,2019,Australian Grand Prix,Bottas,Mercedes,2,1,23.48,70.45,0.0
+24204,2019,Australian Grand Prix,Hamilton,Mercedes,1,2,23.48,70.45,0.0
+24205,2019,Australian Grand Prix,Verstappen,Red Bull,4,3,23.48,70.45,0.0
+24206,2019,Australian Grand Prix,Vettel,Ferrari,3,4,23.48,70.45,0.0
+24207,2019,Australian Grand Prix,Leclerc,Ferrari,5,5,23.48,70.45,0.0
+24208,2019,Australian Grand Prix,Magnussen,Haas F1 Team,7,6,23.48,70.45,0.0
+24223,2019,Bahrain Grand Prix,Hamilton,Mercedes,3,1,26.21,53.37,0.0
+24224,2019,Bahrain Grand Prix,Bottas,Mercedes,4,2,26.21,53.37,0.0
+24225,2019,Bahrain Grand Prix,Leclerc,Ferrari,1,3,26.21,53.37,0.0
+24226,2019,Bahrain Grand Prix,Verstappen,Red Bull,5,4,26.21,53.37,0.0
+24227,2019,Bahrain Grand Prix,Vettel,Ferrari,2,5,26.21,53.37,0.0
+24228,2019,Bahrain Grand Prix,Norris,McLaren,9,6,26.21,53.37,0.0
+24229,2019,Bahrain Grand Prix,Räikkönen,Alfa Romeo,8,7,26.21,53.37,0.0
+24230,2019,Bahrain Grand Prix,Gasly,Red Bull,13,8,26.21,53.37,0.0
+24231,2019,Bahrain Grand Prix,Albon,Toro Rosso,12,9,26.21,53.37,0.0
+24232,2019,Bahrain Grand Prix,Pérez,Racing Point,14,10,26.21,53.37,0.0
+24233,2019,Bahrain Grand Prix,Giovinazzi,Alfa Romeo,16,11,26.21,53.37,0.0
+24243,2019,Chinese Grand Prix,Hamilton,Mercedes,2,1,19.33,45.98,0.0
+24244,2019,Chinese Grand Prix,Bottas,Mercedes,1,2,19.33,45.98,0.0
+24245,2019,Chinese Grand Prix,Vettel,Ferrari,3,3,19.33,45.98,0.0
+24246,2019,Chinese Grand Prix,Verstappen,Red Bull,5,4,19.33,45.98,0.0
+24247,2019,Chinese Grand Prix,Leclerc,Ferrari,4,5,19.33,45.98,0.0
+24248,2019,Chinese Grand Prix,Gasly,Red Bull,6,6,19.33,45.98,0.0
+24263,2019,Azerbaijan Grand Prix,Bottas,Mercedes,1,1,19.76,51.41,0.0
+24264,2019,Azerbaijan Grand Prix,Hamilton,Mercedes,2,2,19.76,51.41,0.0
+24265,2019,Azerbaijan Grand Prix,Vettel,Ferrari,3,3,19.76,51.41,0.0
+24266,2019,Azerbaijan Grand Prix,Verstappen,Red Bull,4,4,19.76,51.41,0.0
+24267,2019,Azerbaijan Grand Prix,Leclerc,Ferrari,8,5,19.76,51.41,0.0
+24268,2019,Azerbaijan Grand Prix,Pérez,Racing Point,5,6,19.76,51.41,0.0
+24269,2019,Azerbaijan Grand Prix,Sainz,McLaren,9,7,19.76,51.41,0.0
+24270,2019,Azerbaijan Grand Prix,Norris,McLaren,7,8,19.76,51.41,0.0
+24271,2019,Azerbaijan Grand Prix,Stroll,Racing Point,13,9,19.76,51.41,0.0
+24283,2019,Spanish Grand Prix,Hamilton,Mercedes,2,1,20.15,54.72,0.0
+24284,2019,Spanish Grand Prix,Bottas,Mercedes,1,2,20.15,54.72,0.0
+24285,2019,Spanish Grand Prix,Verstappen,Red Bull,4,3,20.15,54.72,0.0
+24286,2019,Spanish Grand Prix,Vettel,Ferrari,3,4,20.15,54.72,0.0
+24287,2019,Spanish Grand Prix,Leclerc,Ferrari,5,5,20.15,54.72,0.0
+24288,2019,Spanish Grand Prix,Gasly,Red Bull,6,6,20.15,54.72,0.0
+24289,2019,Spanish Grand Prix,Magnussen,Haas F1 Team,8,7,20.15,54.72,0.0
+24290,2019,Spanish Grand Prix,Sainz,McLaren,12,8,20.15,54.72,0.0
+24291,2019,Spanish Grand Prix,Kvyat,Toro Rosso,9,9,20.15,54.72,0.0
+24292,2019,Spanish Grand Prix,Grosjean,Haas F1 Team,7,10,20.15,54.72,0.0
+24293,2019,Spanish Grand Prix,Albon,Toro Rosso,11,11,20.15,54.72,0.0
+24294,2019,Spanish Grand Prix,Ricciardo,Renault,13,12,20.15,54.72,0.0
+24295,2019,Spanish Grand Prix,Hülkenberg,Renault,0,13,20.15,54.72,0.0
+24296,2019,Spanish Grand Prix,Räikkönen,Alfa Romeo,14,14,20.15,54.72,0.0
+24297,2019,Spanish Grand Prix,Pérez,Racing Point,15,15,20.15,54.72,0.0
+24298,2019,Spanish Grand Prix,Giovinazzi,Alfa Romeo,18,16,20.15,54.72,0.0
+24306,2019,Monaco Grand Prix,Hamilton,Mercedes,1,1,22.75,52.7,0.63
+24307,2019,Monaco Grand Prix,Vettel,Ferrari,4,2,22.75,52.7,0.63
+24308,2019,Monaco Grand Prix,Bottas,Mercedes,2,3,22.75,52.7,0.63
+24309,2019,Monaco Grand Prix,Verstappen,Red Bull,3,4,22.75,52.7,0.63
+24310,2019,Monaco Grand Prix,Gasly,Red Bull,8,5,22.75,52.7,0.63
+24311,2019,Monaco Grand Prix,Sainz,McLaren,9,6,22.75,52.7,0.63
+24312,2019,Monaco Grand Prix,Kvyat,Toro Rosso,7,7,22.75,52.7,0.63
+24313,2019,Monaco Grand Prix,Albon,Toro Rosso,10,8,22.75,52.7,0.63
+24314,2019,Monaco Grand Prix,Ricciardo,Renault,6,9,22.75,52.7,0.63
+24315,2019,Monaco Grand Prix,Grosjean,Haas F1 Team,13,10,22.75,52.7,0.63
+24316,2019,Monaco Grand Prix,Norris,McLaren,12,11,22.75,52.7,0.63
+24326,2019,Canadian Grand Prix,Hamilton,Mercedes,2,1,29.37,16.15,0.0
+24327,2019,Canadian Grand Prix,Vettel,Ferrari,1,2,29.37,16.15,0.0
+24328,2019,Canadian Grand Prix,Leclerc,Ferrari,3,3,29.37,16.15,0.0
+24329,2019,Canadian Grand Prix,Bottas,Mercedes,6,4,29.37,16.15,0.0
+24330,2019,Canadian Grand Prix,Verstappen,Red Bull,9,5,29.37,16.15,0.0
+24346,2019,French Grand Prix,Hamilton,Mercedes,1,1,26.89,39.09,0.0
+24347,2019,French Grand Prix,Bottas,Mercedes,2,2,26.89,39.09,0.0
+24348,2019,French Grand Prix,Leclerc,Ferrari,3,3,26.89,39.09,0.0
+24349,2019,French Grand Prix,Verstappen,Red Bull,4,4,26.89,39.09,0.0
+24350,2019,French Grand Prix,Vettel,Ferrari,7,5,26.89,39.09,0.0
+24351,2019,French Grand Prix,Sainz,McLaren,6,6,26.89,39.09,0.0
+24366,2019,Austrian Grand Prix,Verstappen,Red Bull,2,1,34.44,17.97,0.0
+24367,2019,Austrian Grand Prix,Leclerc,Ferrari,1,2,34.44,17.97,0.0
+24368,2019,Austrian Grand Prix,Bottas,Mercedes,3,3,34.44,17.97,0.0
+24369,2019,Austrian Grand Prix,Vettel,Ferrari,9,4,34.44,17.97,0.0
+24370,2019,Austrian Grand Prix,Hamilton,Mercedes,4,5,34.44,17.97,0.0
+24386,2019,British Grand Prix,Hamilton,Mercedes,2,1,18.91,62.14,0.0
+24387,2019,British Grand Prix,Bottas,Mercedes,1,2,18.91,62.14,0.0
+24388,2019,British Grand Prix,Leclerc,Ferrari,3,3,18.91,62.14,0.0
+24389,2019,British Grand Prix,Gasly,Red Bull,5,4,18.91,62.14,0.0
+24390,2019,British Grand Prix,Verstappen,Red Bull,4,5,18.91,62.14,0.0
+24391,2019,British Grand Prix,Sainz,McLaren,13,6,18.91,62.14,0.0
+24392,2019,British Grand Prix,Ricciardo,Renault,7,7,18.91,62.14,0.0
+24393,2019,British Grand Prix,Räikkönen,Alfa Romeo,12,8,18.91,62.14,0.0
+24394,2019,British Grand Prix,Kvyat,Toro Rosso,17,9,18.91,62.14,0.0
+24395,2019,British Grand Prix,Hülkenberg,Renault,10,10,18.91,62.14,0.0
+24396,2019,British Grand Prix,Norris,McLaren,8,11,18.91,62.14,0.0
+24397,2019,British Grand Prix,Albon,Toro Rosso,9,12,18.91,62.14,0.0
+24398,2019,British Grand Prix,Stroll,Racing Point,18,13,18.91,62.14,0.0
+24406,2019,German Grand Prix,Verstappen,Red Bull,2,1,21.5,87.83,0.97
+24407,2019,German Grand Prix,Vettel,Ferrari,20,2,21.5,87.83,0.97
+24408,2019,German Grand Prix,Kvyat,Toro Rosso,14,3,21.5,87.83,0.97
+24409,2019,German Grand Prix,Stroll,Racing Point,15,4,21.5,87.83,0.97
+24410,2019,German Grand Prix,Sainz,McLaren,7,5,21.5,87.83,0.97
+24411,2019,German Grand Prix,Albon,Toro Rosso,16,6,21.5,87.83,0.97
+24412,2019,German Grand Prix,Grosjean,Haas F1 Team,6,7,21.5,87.83,0.97
+24413,2019,German Grand Prix,Magnussen,Haas F1 Team,12,8,21.5,87.83,0.97
+24414,2019,German Grand Prix,Hamilton,Mercedes,1,9,21.5,87.83,0.97
+24415,2019,German Grand Prix,Kubica,Williams,18,10,21.5,87.83,0.97
+24416,2019,German Grand Prix,Russell,Williams,17,11,21.5,87.83,0.97
+24417,2019,German Grand Prix,Räikkönen,Alfa Romeo,5,12,21.5,87.83,0.97
+24418,2019,German Grand Prix,Giovinazzi,Alfa Romeo,11,13,21.5,87.83,0.97
+24426,2019,Hungarian Grand Prix,Hamilton,Mercedes,3,1,25.66,33.89,0.0
+24427,2019,Hungarian Grand Prix,Verstappen,Red Bull,1,2,25.66,33.89,0.0
+24428,2019,Hungarian Grand Prix,Vettel,Ferrari,5,3,25.66,33.89,0.0
+24429,2019,Hungarian Grand Prix,Leclerc,Ferrari,4,4,25.66,33.89,0.0
+24446,2019,Belgian Grand Prix,Leclerc,Ferrari,1,1,17.4,57.03,0.0
+24447,2019,Belgian Grand Prix,Hamilton,Mercedes,3,2,17.4,57.03,0.0
+24448,2019,Belgian Grand Prix,Bottas,Mercedes,4,3,17.4,57.03,0.0
+24449,2019,Belgian Grand Prix,Vettel,Ferrari,2,4,17.4,57.03,0.0
+24450,2019,Belgian Grand Prix,Albon,Red Bull,17,5,17.4,57.03,0.0
+24451,2019,Belgian Grand Prix,Pérez,Racing Point,7,6,17.4,57.03,0.0
+24452,2019,Belgian Grand Prix,Kvyat,Toro Rosso,19,7,17.4,57.03,0.0
+24453,2019,Belgian Grand Prix,Hülkenberg,Renault,12,8,17.4,57.03,0.0
+24454,2019,Belgian Grand Prix,Gasly,Toro Rosso,13,9,17.4,57.03,0.0
+24455,2019,Belgian Grand Prix,Stroll,Racing Point,16,10,17.4,57.03,0.0
+24466,2019,Italian Grand Prix,Leclerc,Ferrari,1,1,21.1,51.57,0.0
+24467,2019,Italian Grand Prix,Bottas,Mercedes,3,2,21.1,51.57,0.0
+24468,2019,Italian Grand Prix,Hamilton,Mercedes,2,3,21.1,51.57,0.0
+24469,2019,Italian Grand Prix,Ricciardo,Renault,5,4,21.1,51.57,0.0
+24470,2019,Italian Grand Prix,Hülkenberg,Renault,6,5,21.1,51.57,0.0
+24471,2019,Italian Grand Prix,Albon,Red Bull,8,6,21.1,51.57,0.0
+24472,2019,Italian Grand Prix,Pérez,Racing Point,18,7,21.1,51.57,0.0
+24473,2019,Italian Grand Prix,Verstappen,Red Bull,19,8,21.1,51.57,0.0
+24486,2019,Singapore Grand Prix,Vettel,Ferrari,3,1,29.97,66.46,0.0
+24487,2019,Singapore Grand Prix,Leclerc,Ferrari,1,2,29.97,66.46,0.0
+24488,2019,Singapore Grand Prix,Verstappen,Red Bull,4,3,29.97,66.46,0.0
+24489,2019,Singapore Grand Prix,Hamilton,Mercedes,2,4,29.97,66.46,0.0
+24490,2019,Singapore Grand Prix,Bottas,Mercedes,5,5,29.97,66.46,0.0
+24491,2019,Singapore Grand Prix,Albon,Red Bull,6,6,29.97,66.46,0.0
+24492,2019,Singapore Grand Prix,Norris,McLaren,9,7,29.97,66.46,0.0
+24493,2019,Singapore Grand Prix,Gasly,Toro Rosso,11,8,29.97,66.46,0.0
+24494,2019,Singapore Grand Prix,Hülkenberg,Renault,8,9,29.97,66.46,0.0
+24495,2019,Singapore Grand Prix,Giovinazzi,Alfa Romeo,10,10,29.97,66.46,0.0
+24496,2019,Singapore Grand Prix,Grosjean,Haas F1 Team,17,11,29.97,66.46,0.0
+24497,2019,Singapore Grand Prix,Sainz,McLaren,7,12,29.97,66.46,0.0
+24498,2019,Singapore Grand Prix,Stroll,Racing Point,16,13,29.97,66.46,0.0
+24499,2019,Singapore Grand Prix,Ricciardo,Renault,20,14,29.97,66.46,0.0
+24500,2019,Singapore Grand Prix,Kvyat,Toro Rosso,14,15,29.97,66.46,0.0
+24501,2019,Singapore Grand Prix,Kubica,Williams,19,16,29.97,66.46,0.0
+24502,2019,Singapore Grand Prix,Magnussen,Haas F1 Team,13,17,29.97,66.46,0.0
+24506,2019,Russian Grand Prix,Hamilton,Mercedes,2,1,22.03,67.42,0.01
+24507,2019,Russian Grand Prix,Bottas,Mercedes,4,2,22.03,67.42,0.01
+24508,2019,Russian Grand Prix,Leclerc,Ferrari,1,3,22.03,67.42,0.01
+24509,2019,Russian Grand Prix,Verstappen,Red Bull,9,4,22.03,67.42,0.01
+24510,2019,Russian Grand Prix,Albon,Red Bull,0,5,22.03,67.42,0.01
+24511,2019,Russian Grand Prix,Sainz,McLaren,5,6,22.03,67.42,0.01
+24512,2019,Russian Grand Prix,Pérez,Racing Point,11,7,22.03,67.42,0.01
+24513,2019,Russian Grand Prix,Norris,McLaren,7,8,22.03,67.42,0.01
+24514,2019,Russian Grand Prix,Magnussen,Haas F1 Team,13,9,22.03,67.42,0.01
+24515,2019,Russian Grand Prix,Hülkenberg,Renault,6,10,22.03,67.42,0.01
+24516,2019,Russian Grand Prix,Stroll,Racing Point,14,11,22.03,67.42,0.01
+24517,2019,Russian Grand Prix,Kvyat,Toro Rosso,19,12,22.03,67.42,0.01
+24518,2019,Russian Grand Prix,Räikkönen,Alfa Romeo,15,13,22.03,67.42,0.01
+24519,2019,Russian Grand Prix,Gasly,Toro Rosso,16,14,22.03,67.42,0.01
+24520,2019,Russian Grand Prix,Giovinazzi,Alfa Romeo,12,15,22.03,67.42,0.01
+24526,2019,Japanese Grand Prix,Bottas,Mercedes,3,1,21.62,57.48,0.0
+24527,2019,Japanese Grand Prix,Vettel,Ferrari,1,2,21.62,57.48,0.0
+24528,2019,Japanese Grand Prix,Hamilton,Mercedes,4,3,21.62,57.48,0.0
+24529,2019,Japanese Grand Prix,Albon,Red Bull,6,4,21.62,57.48,0.0
+24530,2019,Japanese Grand Prix,Sainz,McLaren,7,5,21.62,57.48,0.0
+24546,2019,Mexican Grand Prix,Hamilton,Mercedes,3,1,23.2,46.29,0.0
+24547,2019,Mexican Grand Prix,Vettel,Ferrari,2,2,23.2,46.29,0.0
+24548,2019,Mexican Grand Prix,Bottas,Mercedes,6,3,23.2,46.29,0.0
+24549,2019,Mexican Grand Prix,Leclerc,Ferrari,1,4,23.2,46.29,0.0
+24550,2019,Mexican Grand Prix,Albon,Red Bull,5,5,23.2,46.29,0.0
+24551,2019,Mexican Grand Prix,Verstappen,Red Bull,4,6,23.2,46.29,0.0
+24552,2019,Mexican Grand Prix,Pérez,Racing Point,11,7,23.2,46.29,0.0
+24553,2019,Mexican Grand Prix,Ricciardo,Renault,13,8,23.2,46.29,0.0
+24566,2019,United States Grand Prix,Bottas,Mercedes,1,1,21.48,29.24,0.0
+24567,2019,United States Grand Prix,Hamilton,Mercedes,5,2,21.48,29.24,0.0
+24568,2019,United States Grand Prix,Verstappen,Red Bull,3,3,21.48,29.24,0.0
+24569,2019,United States Grand Prix,Leclerc,Ferrari,4,4,21.48,29.24,0.0
+24570,2019,United States Grand Prix,Albon,Red Bull,6,5,21.48,29.24,0.0
+24571,2019,United States Grand Prix,Ricciardo,Renault,9,6,21.48,29.24,0.0
+24572,2019,United States Grand Prix,Norris,McLaren,8,7,21.48,29.24,0.0
+24586,2019,Brazilian Grand Prix,Verstappen,Red Bull,1,1,21.02,60.29,0.0
+24587,2019,Brazilian Grand Prix,Gasly,Toro Rosso,6,2,21.02,60.29,0.0
+24588,2019,Brazilian Grand Prix,Sainz,McLaren,20,3,21.02,60.29,0.0
+24589,2019,Brazilian Grand Prix,Räikkönen,Alfa Romeo,8,4,21.02,60.29,0.0
+24590,2019,Brazilian Grand Prix,Giovinazzi,Alfa Romeo,12,5,21.02,60.29,0.0
+24591,2019,Brazilian Grand Prix,Ricciardo,Renault,11,6,21.02,60.29,0.0
+24592,2019,Brazilian Grand Prix,Hamilton,Mercedes,3,7,21.02,60.29,0.0
+24593,2019,Brazilian Grand Prix,Norris,McLaren,10,8,21.02,60.29,0.0
+24594,2019,Brazilian Grand Prix,Pérez,Racing Point,15,9,21.02,60.29,0.0
+24595,2019,Brazilian Grand Prix,Kvyat,Toro Rosso,16,10,21.02,60.29,0.0
+24596,2019,Brazilian Grand Prix,Magnussen,Haas F1 Team,9,11,21.02,60.29,0.0
+24597,2019,Brazilian Grand Prix,Russell,Williams,18,12,21.02,60.29,0.0
+24598,2019,Brazilian Grand Prix,Grosjean,Haas F1 Team,7,13,21.02,60.29,0.0
+24599,2019,Brazilian Grand Prix,Albon,Red Bull,5,14,21.02,60.29,0.0
+24600,2019,Brazilian Grand Prix,Hülkenberg,Renault,13,15,21.02,60.29,0.0
+24606,2019,Abu Dhabi Grand Prix,Hamilton,Mercedes,1,1,26.02,64.47,0.0
+24607,2019,Abu Dhabi Grand Prix,Verstappen,Red Bull,2,2,26.02,64.47,0.0
+24608,2019,Abu Dhabi Grand Prix,Leclerc,Ferrari,3,3,26.02,64.47,0.0
+24609,2019,Abu Dhabi Grand Prix,Bottas,Mercedes,20,4,26.02,64.47,0.0
+24610,2019,Abu Dhabi Grand Prix,Vettel,Ferrari,4,5,26.02,64.47,0.0
+24611,2019,Abu Dhabi Grand Prix,Albon,Red Bull,5,6,26.02,64.47,0.0
+24646,2020,Styrian Grand Prix,Hamilton,Mercedes,1,1,20.82,34.01,0.02
+24647,2020,Styrian Grand Prix,Bottas,Mercedes,4,2,20.82,34.01,0.02
+24648,2020,Styrian Grand Prix,Verstappen,Red Bull,2,3,20.82,34.01,0.02
+24649,2020,Styrian Grand Prix,Albon,Red Bull,6,4,20.82,34.01,0.02
+24650,2020,Styrian Grand Prix,Norris,McLaren,9,5,20.82,34.01,0.02
+24651,2020,Styrian Grand Prix,Pérez,Racing Point,17,6,20.82,34.01,0.02
+24652,2020,Styrian Grand Prix,Stroll,Racing Point,12,7,20.82,34.01,0.02
+24653,2020,Styrian Grand Prix,Ricciardo,Renault,8,8,20.82,34.01,0.02
+24666,2020,Hungarian Grand Prix,Hamilton,Mercedes,1,1,20.74,77.19,0.01
+24667,2020,Hungarian Grand Prix,Verstappen,Red Bull,7,2,20.74,77.19,0.01
+24668,2020,Hungarian Grand Prix,Bottas,Mercedes,2,3,20.74,77.19,0.01
+24669,2020,Hungarian Grand Prix,Stroll,Racing Point,3,4,20.74,77.19,0.01
+24670,2020,Hungarian Grand Prix,Albon,Red Bull,13,5,20.74,77.19,0.01
+24706,2020,70th Anniversary Grand Prix,Verstappen,Red Bull,4,1,25.29,58.56,0.0
+24707,2020,70th Anniversary Grand Prix,Hamilton,Mercedes,2,2,25.29,58.56,0.0
+24708,2020,70th Anniversary Grand Prix,Bottas,Mercedes,1,3,25.29,58.56,0.0
+24709,2020,70th Anniversary Grand Prix,Leclerc,Ferrari,8,4,25.29,58.56,0.0
+24710,2020,70th Anniversary Grand Prix,Albon,Red Bull,9,5,25.29,58.56,0.0
+24711,2020,70th Anniversary Grand Prix,Stroll,Racing Point,6,6,25.29,58.56,0.0
+24712,2020,70th Anniversary Grand Prix,Hülkenberg,Racing Point,3,7,25.29,58.56,0.0
+24713,2020,70th Anniversary Grand Prix,Ocon,Renault,14,8,25.29,58.56,0.0
+24714,2020,70th Anniversary Grand Prix,Norris,McLaren,10,9,25.29,58.56,0.0
+24715,2020,70th Anniversary Grand Prix,Kvyat,AlphaTauri,16,10,25.29,58.56,0.0
+24716,2020,70th Anniversary Grand Prix,Gasly,AlphaTauri,7,11,25.29,58.56,0.0
+24717,2020,70th Anniversary Grand Prix,Vettel,Ferrari,11,12,25.29,58.56,0.0
+24718,2020,70th Anniversary Grand Prix,Sainz,McLaren,12,13,25.29,58.56,0.0
+24726,2020,Spanish Grand Prix,Hamilton,Mercedes,1,1,29.8,56.38,0.0
+24727,2020,Spanish Grand Prix,Verstappen,Red Bull,3,2,29.8,56.38,0.0
+24728,2020,Spanish Grand Prix,Bottas,Mercedes,2,3,29.8,56.38,0.0
+24746,2020,Belgian Grand Prix,Hamilton,Mercedes,1,1,18.57,54.85,0.0
+24747,2020,Belgian Grand Prix,Bottas,Mercedes,2,2,18.57,54.85,0.0
+24748,2020,Belgian Grand Prix,Verstappen,Red Bull,3,3,18.57,54.85,0.0
+24749,2020,Belgian Grand Prix,Ricciardo,Renault,4,4,18.57,54.85,0.0
+24750,2020,Belgian Grand Prix,Ocon,Renault,6,5,18.57,54.85,0.0
+24751,2020,Belgian Grand Prix,Albon,Red Bull,5,6,18.57,54.85,0.0
+24752,2020,Belgian Grand Prix,Norris,McLaren,10,7,18.57,54.85,0.0
+24753,2020,Belgian Grand Prix,Gasly,AlphaTauri,12,8,18.57,54.85,0.0
+24754,2020,Belgian Grand Prix,Stroll,Racing Point,9,9,18.57,54.85,0.0
+24755,2020,Belgian Grand Prix,Pérez,Racing Point,8,10,18.57,54.85,0.0
+24756,2020,Belgian Grand Prix,Kvyat,AlphaTauri,11,11,18.57,54.85,0.0
+24757,2020,Belgian Grand Prix,Räikkönen,Alfa Romeo,16,12,18.57,54.85,0.0
+24758,2020,Belgian Grand Prix,Vettel,Ferrari,14,13,18.57,54.85,0.0
+24759,2020,Belgian Grand Prix,Leclerc,Ferrari,13,14,18.57,54.85,0.0
+24760,2020,Belgian Grand Prix,Grosjean,Haas F1 Team,17,15,18.57,54.85,0.0
+24761,2020,Belgian Grand Prix,Latifi,Williams,19,16,18.57,54.85,0.0
+24762,2020,Belgian Grand Prix,Magnussen,Haas F1 Team,20,17,18.57,54.85,0.0
+24766,2020,Italian Grand Prix,Gasly,AlphaTauri,10,1,28.09,40.12,0.0
+24767,2020,Italian Grand Prix,Sainz,McLaren,3,2,28.09,40.12,0.0
+24768,2020,Italian Grand Prix,Stroll,Racing Point,8,3,28.09,40.12,0.0
+24769,2020,Italian Grand Prix,Norris,McLaren,6,4,28.09,40.12,0.0
+24770,2020,Italian Grand Prix,Bottas,Mercedes,2,5,28.09,40.12,0.0
+24771,2020,Italian Grand Prix,Ricciardo,Renault,7,6,28.09,40.12,0.0
+24772,2020,Italian Grand Prix,Hamilton,Mercedes,1,7,28.09,40.12,0.0
+24773,2020,Italian Grand Prix,Ocon,Renault,12,8,28.09,40.12,0.0
+24774,2020,Italian Grand Prix,Kvyat,AlphaTauri,11,9,28.09,40.12,0.0
+24775,2020,Italian Grand Prix,Pérez,Racing Point,4,10,28.09,40.12,0.0
+24776,2020,Italian Grand Prix,Latifi,Williams,20,11,28.09,40.12,0.0
+24777,2020,Italian Grand Prix,Grosjean,Haas F1 Team,16,12,28.09,40.12,0.0
+24778,2020,Italian Grand Prix,Räikkönen,Alfa Romeo,14,13,28.09,40.12,0.0
+24779,2020,Italian Grand Prix,Russell,Williams,19,14,28.09,40.12,0.0
+24780,2020,Italian Grand Prix,Albon,Red Bull,9,15,28.09,40.12,0.0
+24781,2020,Italian Grand Prix,Giovinazzi,Alfa Romeo,18,16,28.09,40.12,0.0
+24786,2020,Tuscan Grand Prix,Hamilton,Mercedes,1,1,30.17,39.94,0.0
+24787,2020,Tuscan Grand Prix,Bottas,Mercedes,2,2,30.17,39.94,0.0
+24788,2020,Tuscan Grand Prix,Albon,Red Bull,4,3,30.17,39.94,0.0
+24789,2020,Tuscan Grand Prix,Ricciardo,Renault,8,4,30.17,39.94,0.0
+24790,2020,Tuscan Grand Prix,Pérez,Racing Point,7,5,30.17,39.94,0.0
+24791,2020,Tuscan Grand Prix,Norris,McLaren,11,6,30.17,39.94,0.0
+24792,2020,Tuscan Grand Prix,Kvyat,AlphaTauri,12,7,30.17,39.94,0.0
+24793,2020,Tuscan Grand Prix,Leclerc,Ferrari,5,8,30.17,39.94,0.0
+24794,2020,Tuscan Grand Prix,Räikkönen,Alfa Romeo,13,9,30.17,39.94,0.0
+24795,2020,Tuscan Grand Prix,Vettel,Ferrari,14,10,30.17,39.94,0.0
+24796,2020,Tuscan Grand Prix,Russell,Williams,18,11,30.17,39.94,0.0
+24797,2020,Tuscan Grand Prix,Grosjean,Haas F1 Team,15,12,30.17,39.94,0.0
+24806,2020,Russian Grand Prix,Bottas,Mercedes,3,1,28.81,51.36,0.0
+24807,2020,Russian Grand Prix,Verstappen,Red Bull,2,2,28.81,51.36,0.0
+24808,2020,Russian Grand Prix,Hamilton,Mercedes,1,3,28.81,51.36,0.0
+24809,2020,Russian Grand Prix,Pérez,Racing Point,4,4,28.81,51.36,0.0
+24810,2020,Russian Grand Prix,Ricciardo,Renault,5,5,28.81,51.36,0.0
+24811,2020,Russian Grand Prix,Leclerc,Ferrari,10,6,28.81,51.36,0.0
+24812,2020,Russian Grand Prix,Ocon,Renault,7,7,28.81,51.36,0.0
+24813,2020,Russian Grand Prix,Kvyat,AlphaTauri,11,8,28.81,51.36,0.0
+24814,2020,Russian Grand Prix,Gasly,AlphaTauri,9,9,28.81,51.36,0.0
+24815,2020,Russian Grand Prix,Albon,Red Bull,15,10,28.81,51.36,0.0
+24826,2020,Eifel Grand Prix,Hamilton,Mercedes,2,1,9.5,59.4,0.02
+24827,2020,Eifel Grand Prix,Verstappen,Red Bull,3,2,9.5,59.4,0.02
+24828,2020,Eifel Grand Prix,Ricciardo,Renault,6,3,9.5,59.4,0.02
+24829,2020,Eifel Grand Prix,Pérez,Racing Point,9,4,9.5,59.4,0.02
+24830,2020,Eifel Grand Prix,Sainz,McLaren,10,5,9.5,59.4,0.02
+24831,2020,Eifel Grand Prix,Gasly,AlphaTauri,12,6,9.5,59.4,0.02
+24832,2020,Eifel Grand Prix,Leclerc,Ferrari,4,7,9.5,59.4,0.02
+24833,2020,Eifel Grand Prix,Hülkenberg,Racing Point,20,8,9.5,59.4,0.02
+24834,2020,Eifel Grand Prix,Grosjean,Haas F1 Team,16,9,9.5,59.4,0.02
+24835,2020,Eifel Grand Prix,Giovinazzi,Alfa Romeo,14,10,9.5,59.4,0.02
+24836,2020,Eifel Grand Prix,Vettel,Ferrari,11,11,9.5,59.4,0.02
+24837,2020,Eifel Grand Prix,Räikkönen,Alfa Romeo,19,12,9.5,59.4,0.02
+24838,2020,Eifel Grand Prix,Magnussen,Haas F1 Team,15,13,9.5,59.4,0.02
+24839,2020,Eifel Grand Prix,Latifi,Williams,18,14,9.5,59.4,0.02
+24840,2020,Eifel Grand Prix,Kvyat,AlphaTauri,13,15,9.5,59.4,0.02
+24846,2020,Portuguese Grand Prix,Hamilton,Mercedes,1,1,20.51,67.53,0.0
+24847,2020,Portuguese Grand Prix,Bottas,Mercedes,2,2,20.51,67.53,0.0
+24848,2020,Portuguese Grand Prix,Verstappen,Red Bull,3,3,20.51,67.53,0.0
+24849,2020,Portuguese Grand Prix,Leclerc,Ferrari,4,4,20.51,67.53,0.0
+24866,2020,Emilia Romagna Grand Prix,Hamilton,Mercedes,2,1,18.03,71.14,0.0
+24867,2020,Emilia Romagna Grand Prix,Bottas,Mercedes,1,2,18.03,71.14,0.0
+24868,2020,Emilia Romagna Grand Prix,Ricciardo,Renault,5,3,18.03,71.14,0.0
+24869,2020,Emilia Romagna Grand Prix,Kvyat,AlphaTauri,8,4,18.03,71.14,0.0
+24870,2020,Emilia Romagna Grand Prix,Leclerc,Ferrari,7,5,18.03,71.14,0.0
+24871,2020,Emilia Romagna Grand Prix,Pérez,Racing Point,11,6,18.03,71.14,0.0
+24872,2020,Emilia Romagna Grand Prix,Sainz,McLaren,10,7,18.03,71.14,0.0
+24873,2020,Emilia Romagna Grand Prix,Norris,McLaren,9,8,18.03,71.14,0.0
+24874,2020,Emilia Romagna Grand Prix,Räikkönen,Alfa Romeo,18,9,18.03,71.14,0.0
+24875,2020,Emilia Romagna Grand Prix,Giovinazzi,Alfa Romeo,20,10,18.03,71.14,0.0
+24876,2020,Emilia Romagna Grand Prix,Latifi,Williams,19,11,18.03,71.14,0.0
+24877,2020,Emilia Romagna Grand Prix,Vettel,Ferrari,14,12,18.03,71.14,0.0
+24878,2020,Emilia Romagna Grand Prix,Stroll,Racing Point,15,13,18.03,71.14,0.0
+24879,2020,Emilia Romagna Grand Prix,Grosjean,Haas F1 Team,16,14,18.03,71.14,0.0
+24880,2020,Emilia Romagna Grand Prix,Albon,Red Bull,6,15,18.03,71.14,0.0
+24886,2020,Turkish Grand Prix,Hamilton,Mercedes,6,1,13.1,80.16,0.04
+24887,2020,Turkish Grand Prix,Pérez,Racing Point,3,2,13.1,80.16,0.04
+24888,2020,Turkish Grand Prix,Vettel,Ferrari,11,3,13.1,80.16,0.04
+24889,2020,Turkish Grand Prix,Leclerc,Ferrari,12,4,13.1,80.16,0.04
+24890,2020,Turkish Grand Prix,Sainz,McLaren,15,5,13.1,80.16,0.04
+24891,2020,Turkish Grand Prix,Verstappen,Red Bull,2,6,13.1,80.16,0.04
+24892,2020,Turkish Grand Prix,Albon,Red Bull,4,7,13.1,80.16,0.04
+24893,2020,Turkish Grand Prix,Norris,McLaren,14,8,13.1,80.16,0.04
+24894,2020,Turkish Grand Prix,Stroll,Racing Point,1,9,13.1,80.16,0.04
+24895,2020,Turkish Grand Prix,Ricciardo,Renault,5,10,13.1,80.16,0.04
+24926,2020,Sakhir Grand Prix,Pérez,Racing Point,5,1,20.95,58.17,0.0
+24927,2020,Sakhir Grand Prix,Ocon,Renault,11,2,20.95,58.17,0.0
+24928,2020,Sakhir Grand Prix,Stroll,Racing Point,10,3,20.95,58.17,0.0
+24929,2020,Sakhir Grand Prix,Sainz,McLaren,8,4,20.95,58.17,0.0
+24930,2020,Sakhir Grand Prix,Ricciardo,Renault,7,5,20.95,58.17,0.0
+24931,2020,Sakhir Grand Prix,Albon,Red Bull,12,6,20.95,58.17,0.0
+24932,2020,Sakhir Grand Prix,Kvyat,AlphaTauri,6,7,20.95,58.17,0.0
+24933,2020,Sakhir Grand Prix,Bottas,Mercedes,1,8,20.95,58.17,0.0
+24934,2020,Sakhir Grand Prix,Russell,Mercedes,2,9,20.95,58.17,0.0
+24935,2020,Sakhir Grand Prix,Norris,McLaren,19,10,20.95,58.17,0.0
+24936,2020,Sakhir Grand Prix,Gasly,AlphaTauri,9,11,20.95,58.17,0.0
+24937,2020,Sakhir Grand Prix,Vettel,Ferrari,13,12,20.95,58.17,0.0
+24938,2020,Sakhir Grand Prix,Giovinazzi,Alfa Romeo,14,13,20.95,58.17,0.0
+24939,2020,Sakhir Grand Prix,Räikkönen,Alfa Romeo,18,14,20.95,58.17,0.0
+24940,2020,Sakhir Grand Prix,Magnussen,Haas F1 Team,15,15,20.95,58.17,0.0
+24941,2020,Sakhir Grand Prix,Aitken,Williams,17,16,20.95,58.17,0.0
+24942,2020,Sakhir Grand Prix,Fittipaldi,Haas F1 Team,20,17,20.95,58.17,0.0
+24946,2020,Abu Dhabi Grand Prix,Verstappen,Red Bull,1,1,23.12,55.45,0.0
+24947,2020,Abu Dhabi Grand Prix,Bottas,Mercedes,2,2,23.12,55.45,0.0
+24948,2020,Abu Dhabi Grand Prix,Hamilton,Mercedes,3,3,23.12,55.45,0.0
+24949,2020,Abu Dhabi Grand Prix,Albon,Red Bull,5,4,23.12,55.45,0.0
+24950,2020,Abu Dhabi Grand Prix,Norris,McLaren,4,5,23.12,55.45,0.0
+24951,2020,Abu Dhabi Grand Prix,Sainz,McLaren,6,6,23.12,55.45,0.0
+24952,2020,Abu Dhabi Grand Prix,Ricciardo,Renault,11,7,23.12,55.45,0.0
+24953,2020,Abu Dhabi Grand Prix,Gasly,AlphaTauri,9,8,23.12,55.45,0.0
+24954,2020,Abu Dhabi Grand Prix,Ocon,Renault,10,9,23.12,55.45,0.0
+24955,2020,Abu Dhabi Grand Prix,Stroll,Racing Point,8,10,23.12,55.45,0.0
+24966,2021,Bahrain Grand Prix,Hamilton,Mercedes,2,1,20.54,54.52,0.0
+24967,2021,Bahrain Grand Prix,Verstappen,Red Bull,1,2,20.54,54.52,0.0
+24968,2021,Bahrain Grand Prix,Bottas,Mercedes,3,3,20.54,54.52,0.0
+24969,2021,Bahrain Grand Prix,Norris,McLaren,7,4,20.54,54.52,0.0
+24970,2021,Bahrain Grand Prix,Pérez,Red Bull,0,5,20.54,54.52,0.0
+24971,2021,Bahrain Grand Prix,Leclerc,Ferrari,4,6,20.54,54.52,0.0
+24972,2021,Bahrain Grand Prix,Ricciardo,McLaren,6,7,20.54,54.52,0.0
+24973,2021,Bahrain Grand Prix,Sainz,Ferrari,8,8,20.54,54.52,0.0
+24974,2021,Bahrain Grand Prix,Tsunoda,AlphaTauri,13,9,20.54,54.52,0.0
+24975,2021,Bahrain Grand Prix,Stroll,Aston Martin,10,10,20.54,54.52,0.0
+24976,2021,Bahrain Grand Prix,Räikkönen,Alfa Romeo,14,11,20.54,54.52,0.0
+24986,2021,Emilia Romagna Grand Prix,Verstappen,Red Bull,3,1,10.62,69.49,0.41
+24987,2021,Emilia Romagna Grand Prix,Hamilton,Mercedes,1,2,10.62,69.49,0.41
+24988,2021,Emilia Romagna Grand Prix,Norris,McLaren,7,3,10.62,69.49,0.41
+24989,2021,Emilia Romagna Grand Prix,Leclerc,Ferrari,4,4,10.62,69.49,0.41
+24990,2021,Emilia Romagna Grand Prix,Sainz,Ferrari,11,5,10.62,69.49,0.41
+24991,2021,Emilia Romagna Grand Prix,Ricciardo,McLaren,6,6,10.62,69.49,0.41
+24992,2021,Emilia Romagna Grand Prix,Gasly,AlphaTauri,5,7,10.62,69.49,0.41
+24993,2021,Emilia Romagna Grand Prix,Stroll,Aston Martin,10,8,10.62,69.49,0.41
+24994,2021,Emilia Romagna Grand Prix,Ocon,Alpine F1 Team,9,9,10.62,69.49,0.41
+24995,2021,Emilia Romagna Grand Prix,Alonso,Alpine F1 Team,15,10,10.62,69.49,0.41
+24996,2021,Emilia Romagna Grand Prix,Pérez,Red Bull,2,11,10.62,69.49,0.41
+24997,2021,Emilia Romagna Grand Prix,Tsunoda,AlphaTauri,20,12,10.62,69.49,0.41
+24998,2021,Emilia Romagna Grand Prix,Räikkönen,Alfa Romeo,16,13,10.62,69.49,0.41
+25006,2021,Portuguese Grand Prix,Hamilton,Mercedes,2,1,19.39,39.4,0.0
+25007,2021,Portuguese Grand Prix,Verstappen,Red Bull,3,2,19.39,39.4,0.0
+25008,2021,Portuguese Grand Prix,Bottas,Mercedes,1,3,19.39,39.4,0.0
+25009,2021,Portuguese Grand Prix,Pérez,Red Bull,4,4,19.39,39.4,0.0
+25010,2021,Portuguese Grand Prix,Norris,McLaren,7,5,19.39,39.4,0.0
+25011,2021,Portuguese Grand Prix,Leclerc,Ferrari,8,6,19.39,39.4,0.0
+25012,2021,Portuguese Grand Prix,Ocon,Alpine F1 Team,6,7,19.39,39.4,0.0
+25013,2021,Portuguese Grand Prix,Alonso,Alpine F1 Team,13,8,19.39,39.4,0.0
+25014,2021,Portuguese Grand Prix,Ricciardo,McLaren,16,9,19.39,39.4,0.0
+25015,2021,Portuguese Grand Prix,Gasly,AlphaTauri,9,10,19.39,39.4,0.0
+25016,2021,Portuguese Grand Prix,Sainz,Ferrari,5,11,19.39,39.4,0.0
+25026,2021,Spanish Grand Prix,Hamilton,Mercedes,1,1,22.2,57.55,0.0
+25027,2021,Spanish Grand Prix,Verstappen,Red Bull,2,2,22.2,57.55,0.0
+25028,2021,Spanish Grand Prix,Bottas,Mercedes,3,3,22.2,57.55,0.0
+25029,2021,Spanish Grand Prix,Leclerc,Ferrari,4,4,22.2,57.55,0.0
+25030,2021,Spanish Grand Prix,Pérez,Red Bull,8,5,22.2,57.55,0.0
+25031,2021,Spanish Grand Prix,Ricciardo,McLaren,7,6,22.2,57.55,0.0
+25032,2021,Spanish Grand Prix,Sainz,Ferrari,6,7,22.2,57.55,0.0
+25047,2021,Monaco Grand Prix,Sainz,Ferrari,4,2,20.76,61.42,0.0
+25046,2021,Monaco Grand Prix,Verstappen,Red Bull,2,1,20.76,61.42,0.0
+25048,2021,Monaco Grand Prix,Norris,McLaren,5,3,20.76,61.42,0.0
+25049,2021,Monaco Grand Prix,Pérez,Red Bull,9,4,20.76,61.42,0.0
+25050,2021,Monaco Grand Prix,Vettel,Aston Martin,8,5,20.76,61.42,0.0
+25051,2021,Monaco Grand Prix,Gasly,AlphaTauri,6,6,20.76,61.42,0.0
+25052,2021,Monaco Grand Prix,Hamilton,Mercedes,7,7,20.76,61.42,0.0
+25066,2021,Azerbaijan Grand Prix,Pérez,Red Bull,6,1,24.17,55.81,0.0
+25067,2021,Azerbaijan Grand Prix,Vettel,Aston Martin,11,2,24.17,55.81,0.0
+25068,2021,Azerbaijan Grand Prix,Gasly,AlphaTauri,4,3,24.17,55.81,0.0
+25069,2021,Azerbaijan Grand Prix,Leclerc,Ferrari,1,4,24.17,55.81,0.0
+25070,2021,Azerbaijan Grand Prix,Norris,McLaren,9,5,24.17,55.81,0.0
+25071,2021,Azerbaijan Grand Prix,Alonso,Alpine F1 Team,8,6,24.17,55.81,0.0
+25072,2021,Azerbaijan Grand Prix,Tsunoda,AlphaTauri,7,7,24.17,55.81,0.0
+25073,2021,Azerbaijan Grand Prix,Sainz,Ferrari,5,8,24.17,55.81,0.0
+25074,2021,Azerbaijan Grand Prix,Ricciardo,McLaren,13,9,24.17,55.81,0.0
+25075,2021,Azerbaijan Grand Prix,Räikkönen,Alfa Romeo,14,10,24.17,55.81,0.0
+25076,2021,Azerbaijan Grand Prix,Giovinazzi,Alfa Romeo,20,11,24.17,55.81,0.0
+25077,2021,Azerbaijan Grand Prix,Bottas,Mercedes,10,12,24.17,55.81,0.0
+25078,2021,Azerbaijan Grand Prix,Schumacher,Haas F1 Team,17,13,24.17,55.81,0.0
+25079,2021,Azerbaijan Grand Prix,Mazepin,Haas F1 Team,18,14,24.17,55.81,0.0
+25080,2021,Azerbaijan Grand Prix,Hamilton,Mercedes,2,15,24.17,55.81,0.0
+25081,2021,Azerbaijan Grand Prix,Latifi,Williams,16,16,24.17,55.81,0.0
+25086,2021,French Grand Prix,Verstappen,Red Bull,1,1,25.31,58.63,0.0
+25087,2021,French Grand Prix,Hamilton,Mercedes,2,2,25.31,58.63,0.0
+25088,2021,French Grand Prix,Pérez,Red Bull,4,3,25.31,58.63,0.0
+25089,2021,French Grand Prix,Bottas,Mercedes,3,4,25.31,58.63,0.0
+25090,2021,French Grand Prix,Norris,McLaren,8,5,25.31,58.63,0.0
+25091,2021,French Grand Prix,Ricciardo,McLaren,10,6,25.31,58.63,0.0
+25092,2021,French Grand Prix,Gasly,AlphaTauri,6,7,25.31,58.63,0.0
+25093,2021,French Grand Prix,Alonso,Alpine F1 Team,9,8,25.31,58.63,0.0
+25094,2021,French Grand Prix,Vettel,Aston Martin,12,9,25.31,58.63,0.0
+25095,2021,French Grand Prix,Stroll,Aston Martin,19,10,25.31,58.63,0.0
+25096,2021,French Grand Prix,Sainz,Ferrari,5,11,25.31,58.63,0.0
+25106,2021,Styrian Grand Prix,Verstappen,Red Bull,1,1,26.69,33.25,0.0
+25107,2021,Styrian Grand Prix,Hamilton,Mercedes,2,2,26.69,33.25,0.0
+25108,2021,Styrian Grand Prix,Bottas,Mercedes,5,3,26.69,33.25,0.0
+25109,2021,Styrian Grand Prix,Pérez,Red Bull,4,4,26.69,33.25,0.0
+25146,2021,British Grand Prix,Hamilton,Mercedes,2,1,29.4,37.2,0.0
+25147,2021,British Grand Prix,Leclerc,Ferrari,4,2,29.4,37.2,0.0
+25148,2021,British Grand Prix,Bottas,Mercedes,3,3,29.4,37.2,0.0
+25149,2021,British Grand Prix,Norris,McLaren,5,4,29.4,37.2,0.0
+25150,2021,British Grand Prix,Ricciardo,McLaren,6,5,29.4,37.2,0.0
+25151,2021,British Grand Prix,Sainz,Ferrari,10,6,29.4,37.2,0.0
+25152,2021,British Grand Prix,Alonso,Alpine F1 Team,7,7,29.4,37.2,0.0
+25153,2021,British Grand Prix,Stroll,Aston Martin,14,8,29.4,37.2,0.0
+25154,2021,British Grand Prix,Ocon,Alpine F1 Team,9,9,29.4,37.2,0.0
+25155,2021,British Grand Prix,Tsunoda,AlphaTauri,16,10,29.4,37.2,0.0
+25156,2021,British Grand Prix,Gasly,AlphaTauri,11,11,29.4,37.2,0.0
+25166,2021,Hungarian Grand Prix,Ocon,Alpine F1 Team,8,1,27.23,68.62,0.3
+25167,2021,Hungarian Grand Prix,Hamilton,Mercedes,1,2,27.23,68.62,0.3
+25168,2021,Hungarian Grand Prix,Sainz,Ferrari,15,3,27.23,68.62,0.3
+25169,2021,Hungarian Grand Prix,Alonso,Alpine F1 Team,9,4,27.23,68.62,0.3
+25170,2021,Hungarian Grand Prix,Gasly,AlphaTauri,5,5,27.23,68.62,0.3
+25171,2021,Hungarian Grand Prix,Tsunoda,AlphaTauri,16,6,27.23,68.62,0.3
+25172,2021,Hungarian Grand Prix,Latifi,Williams,18,7,27.23,68.62,0.3
+25173,2021,Hungarian Grand Prix,Russell,Williams,17,8,27.23,68.62,0.3
+25174,2021,Hungarian Grand Prix,Verstappen,Red Bull,3,9,27.23,68.62,0.3
+25206,2021,Dutch Grand Prix,Verstappen,Red Bull,1,1,21.5,54.11,0.0
+25207,2021,Dutch Grand Prix,Hamilton,Mercedes,2,2,21.5,54.11,0.0
+25208,2021,Dutch Grand Prix,Bottas,Mercedes,3,3,21.5,54.11,0.0
+25226,2021,Italian Grand Prix,Ricciardo,McLaren,2,1,28.89,33.28,0.0
+25227,2021,Italian Grand Prix,Norris,McLaren,3,2,28.89,33.28,0.0
+25228,2021,Italian Grand Prix,Bottas,Mercedes,19,3,28.89,33.28,0.0
+25229,2021,Italian Grand Prix,Leclerc,Ferrari,5,4,28.89,33.28,0.0
+25230,2021,Italian Grand Prix,Pérez,Red Bull,8,5,28.89,33.28,0.0
+25231,2021,Italian Grand Prix,Sainz,Ferrari,6,6,28.89,33.28,0.0
+25232,2021,Italian Grand Prix,Stroll,Aston Martin,9,7,28.89,33.28,0.0
+25233,2021,Italian Grand Prix,Alonso,Alpine F1 Team,10,8,28.89,33.28,0.0
+25234,2021,Italian Grand Prix,Russell,Williams,14,9,28.89,33.28,0.0
+25235,2021,Italian Grand Prix,Ocon,Alpine F1 Team,12,10,28.89,33.28,0.0
+25236,2021,Italian Grand Prix,Latifi,Williams,13,11,28.89,33.28,0.0
+25237,2021,Italian Grand Prix,Vettel,Aston Martin,11,12,28.89,33.28,0.0
+25238,2021,Italian Grand Prix,Giovinazzi,Alfa Romeo,7,13,28.89,33.28,0.0
+25239,2021,Italian Grand Prix,Kubica,Alfa Romeo,17,14,28.89,33.28,0.0
+25240,2021,Italian Grand Prix,Schumacher,Haas F1 Team,18,15,28.89,33.28,0.0
+25246,2021,Russian Grand Prix,Hamilton,Mercedes,4,1,19.14,61.95,0.1
+25247,2021,Russian Grand Prix,Verstappen,Red Bull,20,2,19.14,61.95,0.1
+25248,2021,Russian Grand Prix,Sainz,Ferrari,2,3,19.14,61.95,0.1
+25249,2021,Russian Grand Prix,Ricciardo,McLaren,5,4,19.14,61.95,0.1
+25250,2021,Russian Grand Prix,Bottas,Mercedes,16,5,19.14,61.95,0.1
+25251,2021,Russian Grand Prix,Alonso,Alpine F1 Team,6,6,19.14,61.95,0.1
+25252,2021,Russian Grand Prix,Norris,McLaren,1,7,19.14,61.95,0.1
+25253,2021,Russian Grand Prix,Räikkönen,Alfa Romeo,13,8,19.14,61.95,0.1
+25254,2021,Russian Grand Prix,Pérez,Red Bull,8,9,19.14,61.95,0.1
+25255,2021,Russian Grand Prix,Russell,Williams,3,10,19.14,61.95,0.1
+25256,2021,Russian Grand Prix,Stroll,Aston Martin,7,11,19.14,61.95,0.1
+25266,2021,Turkish Grand Prix,Bottas,Mercedes,1,1,15.83,93.52,0.0
+25267,2021,Turkish Grand Prix,Verstappen,Red Bull,2,2,15.83,93.52,0.0
+25268,2021,Turkish Grand Prix,Pérez,Red Bull,6,3,15.83,93.52,0.0
+25269,2021,Turkish Grand Prix,Leclerc,Ferrari,3,4,15.83,93.52,0.0
+25270,2021,Turkish Grand Prix,Hamilton,Mercedes,11,5,15.83,93.52,0.0
+25271,2021,Turkish Grand Prix,Gasly,AlphaTauri,4,6,15.83,93.52,0.0
+25272,2021,Turkish Grand Prix,Norris,McLaren,7,7,15.83,93.52,0.0
+25273,2021,Turkish Grand Prix,Sainz,Ferrari,19,8,15.83,93.52,0.0
+25274,2021,Turkish Grand Prix,Stroll,Aston Martin,8,9,15.83,93.52,0.0
+25286,2021,United States Grand Prix,Verstappen,Red Bull,1,1,28.15,61.19,0.0
+25287,2021,United States Grand Prix,Hamilton,Mercedes,2,2,28.15,61.19,0.0
+25288,2021,United States Grand Prix,Pérez,Red Bull,3,3,28.15,61.19,0.0
+25289,2021,United States Grand Prix,Leclerc,Ferrari,4,4,28.15,61.19,0.0
+25290,2021,United States Grand Prix,Ricciardo,McLaren,6,5,28.15,61.19,0.0
+25291,2021,United States Grand Prix,Bottas,Mercedes,9,6,28.15,61.19,0.0
+25292,2021,United States Grand Prix,Sainz,Ferrari,5,7,28.15,61.19,0.0
+25293,2021,United States Grand Prix,Norris,McLaren,7,8,28.15,61.19,0.0
+25306,2021,Mexico City Grand Prix,Verstappen,Red Bull,3,1,21.21,31.21,0.0
+25307,2021,Mexico City Grand Prix,Hamilton,Mercedes,2,2,21.21,31.21,0.0
+25308,2021,Mexico City Grand Prix,Pérez,Red Bull,4,3,21.21,31.21,0.0
+25309,2021,Mexico City Grand Prix,Gasly,AlphaTauri,5,4,21.21,31.21,0.0
+25310,2021,Mexico City Grand Prix,Leclerc,Ferrari,8,5,21.21,31.21,0.0
+25326,2021,São Paulo Grand Prix,Hamilton,Mercedes,10,1,23.14,60.1,0.0
+25327,2021,São Paulo Grand Prix,Verstappen,Red Bull,2,2,23.14,60.1,0.0
+25328,2021,São Paulo Grand Prix,Bottas,Mercedes,1,3,23.14,60.1,0.0
+25329,2021,São Paulo Grand Prix,Pérez,Red Bull,4,4,23.14,60.1,0.0
+25330,2021,São Paulo Grand Prix,Leclerc,Ferrari,6,5,23.14,60.1,0.0
+25331,2021,São Paulo Grand Prix,Sainz,Ferrari,3,6,23.14,60.1,0.0
+25346,2021,Qatar Grand Prix,Hamilton,Mercedes,1,1,26.42,75.54,0.02
+25347,2021,Qatar Grand Prix,Verstappen,Red Bull,7,2,26.42,75.54,0.02
+25348,2021,Qatar Grand Prix,Alonso,Alpine F1 Team,3,3,26.42,75.54,0.02
+25349,2021,Qatar Grand Prix,Pérez,Red Bull,11,4,26.42,75.54,0.02
+25350,2021,Qatar Grand Prix,Ocon,Alpine F1 Team,9,5,26.42,75.54,0.02
+25351,2021,Qatar Grand Prix,Stroll,Aston Martin,12,6,26.42,75.54,0.02
+25352,2021,Qatar Grand Prix,Sainz,Ferrari,5,7,26.42,75.54,0.02
+25353,2021,Qatar Grand Prix,Leclerc,Ferrari,13,8,26.42,75.54,0.02
+25366,2021,Saudi Arabian Grand Prix,Hamilton,Mercedes,1,1,28.82,76.2,0.0
+25367,2021,Saudi Arabian Grand Prix,Verstappen,Red Bull,3,2,28.82,76.2,0.0
+25368,2021,Saudi Arabian Grand Prix,Bottas,Mercedes,2,3,28.82,76.2,0.0
+25369,2021,Saudi Arabian Grand Prix,Ocon,Alpine F1 Team,9,4,28.82,76.2,0.0
+25370,2021,Saudi Arabian Grand Prix,Ricciardo,McLaren,11,5,28.82,76.2,0.0
+25371,2021,Saudi Arabian Grand Prix,Gasly,AlphaTauri,6,6,28.82,76.2,0.0
+25372,2021,Saudi Arabian Grand Prix,Leclerc,Ferrari,4,7,28.82,76.2,0.0
+25373,2021,Saudi Arabian Grand Prix,Sainz,Ferrari,15,8,28.82,76.2,0.0
+25374,2021,Saudi Arabian Grand Prix,Giovinazzi,Alfa Romeo,10,9,28.82,76.2,0.0
+25375,2021,Saudi Arabian Grand Prix,Norris,McLaren,7,10,28.82,76.2,0.0
+25376,2021,Saudi Arabian Grand Prix,Stroll,Aston Martin,18,11,28.82,76.2,0.0
+25377,2021,Saudi Arabian Grand Prix,Latifi,Williams,16,12,28.82,76.2,0.0
+25406,2022,Bahrain Grand Prix,Leclerc,Ferrari,1,1,23.62,29.49,0.0
+25407,2022,Bahrain Grand Prix,Sainz,Ferrari,3,2,23.62,29.49,0.0
+25408,2022,Bahrain Grand Prix,Hamilton,Mercedes,5,3,23.62,29.49,0.0
+25409,2022,Bahrain Grand Prix,Russell,Mercedes,9,4,23.62,29.49,0.0
+25410,2022,Bahrain Grand Prix,Magnussen,Haas F1 Team,7,5,23.62,29.49,0.0
+25411,2022,Bahrain Grand Prix,Bottas,Alfa Romeo,6,6,23.62,29.49,0.0
+25412,2022,Bahrain Grand Prix,Ocon,Alpine F1 Team,11,7,23.62,29.49,0.0
+25413,2022,Bahrain Grand Prix,Tsunoda,AlphaTauri,16,8,23.62,29.49,0.0
+25414,2022,Bahrain Grand Prix,Alonso,Alpine F1 Team,8,9,23.62,29.49,0.0
+25415,2022,Bahrain Grand Prix,Zhou,Alfa Romeo,15,10,23.62,29.49,0.0
+25416,2022,Bahrain Grand Prix,Schumacher,Haas F1 Team,12,11,23.62,29.49,0.0
+25417,2022,Bahrain Grand Prix,Stroll,Aston Martin,19,12,23.62,29.49,0.0
+25418,2022,Bahrain Grand Prix,Albon,Williams,14,13,23.62,29.49,0.0
+25419,2022,Bahrain Grand Prix,Ricciardo,McLaren,18,14,23.62,29.49,0.0
+25420,2022,Bahrain Grand Prix,Norris,McLaren,13,15,23.62,29.49,0.0
+25421,2022,Bahrain Grand Prix,Latifi,Williams,20,16,23.62,29.49,0.0
+25422,2022,Bahrain Grand Prix,Hülkenberg,Aston Martin,17,17,23.62,29.49,0.0
+25426,2022,Saudi Arabian Grand Prix,Verstappen,Red Bull,4,1,25.42,59.66,0.0
+25427,2022,Saudi Arabian Grand Prix,Leclerc,Ferrari,2,2,25.42,59.66,0.0
+25428,2022,Saudi Arabian Grand Prix,Sainz,Ferrari,3,3,25.42,59.66,0.0
+25429,2022,Saudi Arabian Grand Prix,Pérez,Red Bull,1,4,25.42,59.66,0.0
+25430,2022,Saudi Arabian Grand Prix,Russell,Mercedes,6,5,25.42,59.66,0.0
+25431,2022,Saudi Arabian Grand Prix,Ocon,Alpine F1 Team,5,6,25.42,59.66,0.0
+25432,2022,Saudi Arabian Grand Prix,Norris,McLaren,11,7,25.42,59.66,0.0
+25433,2022,Saudi Arabian Grand Prix,Gasly,AlphaTauri,9,8,25.42,59.66,0.0
+25434,2022,Saudi Arabian Grand Prix,Magnussen,Haas F1 Team,10,9,25.42,59.66,0.0
+25435,2022,Saudi Arabian Grand Prix,Hamilton,Mercedes,15,10,25.42,59.66,0.0
+25436,2022,Saudi Arabian Grand Prix,Zhou,Alfa Romeo,12,11,25.42,59.66,0.0
+25437,2022,Saudi Arabian Grand Prix,Hülkenberg,Aston Martin,17,12,25.42,59.66,0.0
+25446,2022,Australian Grand Prix,Leclerc,Ferrari,1,1,26.7,43.65,0.0
+25447,2022,Australian Grand Prix,Pérez,Red Bull,3,2,26.7,43.65,0.0
+25448,2022,Australian Grand Prix,Russell,Mercedes,6,3,26.7,43.65,0.0
+25449,2022,Australian Grand Prix,Hamilton,Mercedes,5,4,26.7,43.65,0.0
+25450,2022,Australian Grand Prix,Norris,McLaren,4,5,26.7,43.65,0.0
+25451,2022,Australian Grand Prix,Ricciardo,McLaren,7,6,26.7,43.65,0.0
+25452,2022,Australian Grand Prix,Ocon,Alpine F1 Team,8,7,26.7,43.65,0.0
+25453,2022,Australian Grand Prix,Bottas,Alfa Romeo,12,8,26.7,43.65,0.0
+25454,2022,Australian Grand Prix,Gasly,AlphaTauri,11,9,26.7,43.65,0.0
+25455,2022,Australian Grand Prix,Albon,Williams,20,10,26.7,43.65,0.0
+25456,2022,Australian Grand Prix,Zhou,Alfa Romeo,14,11,26.7,43.65,0.0
+25457,2022,Australian Grand Prix,Stroll,Aston Martin,19,12,26.7,43.65,0.0
+25466,2022,Emilia Romagna Grand Prix,Verstappen,Red Bull,1,1,12.9,83.17,0.0
+25467,2022,Emilia Romagna Grand Prix,Pérez,Red Bull,3,2,12.9,83.17,0.0
+25468,2022,Emilia Romagna Grand Prix,Norris,McLaren,5,3,12.9,83.17,0.0
+25469,2022,Emilia Romagna Grand Prix,Russell,Mercedes,11,4,12.9,83.17,0.0
+25470,2022,Emilia Romagna Grand Prix,Bottas,Alfa Romeo,7,5,12.9,83.17,0.0
+25471,2022,Emilia Romagna Grand Prix,Leclerc,Ferrari,2,6,12.9,83.17,0.0
+25472,2022,Emilia Romagna Grand Prix,Tsunoda,AlphaTauri,12,7,12.9,83.17,0.0
+25473,2022,Emilia Romagna Grand Prix,Vettel,Aston Martin,13,8,12.9,83.17,0.0
+25474,2022,Emilia Romagna Grand Prix,Magnussen,Haas F1 Team,8,9,12.9,83.17,0.0
+25486,2022,Miami Grand Prix,Verstappen,Red Bull,3,1,30.62,58.86,0.06
+25487,2022,Miami Grand Prix,Leclerc,Ferrari,1,2,30.62,58.86,0.06
+25488,2022,Miami Grand Prix,Sainz,Ferrari,2,3,30.62,58.86,0.06
+25489,2022,Miami Grand Prix,Pérez,Red Bull,4,4,30.62,58.86,0.06
+25490,2022,Miami Grand Prix,Russell,Mercedes,12,5,30.62,58.86,0.06
+25491,2022,Miami Grand Prix,Hamilton,Mercedes,6,6,30.62,58.86,0.06
+25492,2022,Miami Grand Prix,Bottas,Alfa Romeo,5,7,30.62,58.86,0.06
+25493,2022,Miami Grand Prix,Ocon,Alpine F1 Team,20,8,30.62,58.86,0.06
+25494,2022,Miami Grand Prix,Albon,Williams,18,9,30.62,58.86,0.06
+25495,2022,Miami Grand Prix,Stroll,Aston Martin,0,10,30.62,58.86,0.06
+25496,2022,Miami Grand Prix,Alonso,Alpine F1 Team,11,11,30.62,58.86,0.06
+25497,2022,Miami Grand Prix,Tsunoda,AlphaTauri,9,12,30.62,58.86,0.06
+25498,2022,Miami Grand Prix,Ricciardo,McLaren,14,13,30.62,58.86,0.06
+25499,2022,Miami Grand Prix,Latifi,Williams,19,14,30.62,58.86,0.06
+25500,2022,Miami Grand Prix,Schumacher,Haas F1 Team,15,15,30.62,58.86,0.06
+25506,2022,Spanish Grand Prix,Verstappen,Red Bull,2,1,36.57,7.11,0.0
+25507,2022,Spanish Grand Prix,Pérez,Red Bull,5,2,36.57,7.11,0.0
+25508,2022,Spanish Grand Prix,Russell,Mercedes,4,3,36.57,7.11,0.0
+25509,2022,Spanish Grand Prix,Sainz,Ferrari,3,4,36.57,7.11,0.0
+25510,2022,Spanish Grand Prix,Hamilton,Mercedes,6,5,36.57,7.11,0.0
+25511,2022,Spanish Grand Prix,Bottas,Alfa Romeo,7,6,36.57,7.11,0.0
+25512,2022,Spanish Grand Prix,Ocon,Alpine F1 Team,12,7,36.57,7.11,0.0
+25513,2022,Spanish Grand Prix,Norris,McLaren,11,8,36.57,7.11,0.0
+25526,2022,Monaco Grand Prix,Pérez,Red Bull,3,1,22.27,75.67,0.44
+25527,2022,Monaco Grand Prix,Sainz,Ferrari,2,2,22.27,75.67,0.44
+25528,2022,Monaco Grand Prix,Verstappen,Red Bull,4,3,22.27,75.67,0.44
+25529,2022,Monaco Grand Prix,Leclerc,Ferrari,1,4,22.27,75.67,0.44
+25530,2022,Monaco Grand Prix,Russell,Mercedes,6,5,22.27,75.67,0.44
+25531,2022,Monaco Grand Prix,Norris,McLaren,5,6,22.27,75.67,0.44
+25532,2022,Monaco Grand Prix,Alonso,Alpine F1 Team,7,7,22.27,75.67,0.44
+25533,2022,Monaco Grand Prix,Hamilton,Mercedes,8,8,22.27,75.67,0.44
+25534,2022,Monaco Grand Prix,Bottas,Alfa Romeo,12,9,22.27,75.67,0.44
+25535,2022,Monaco Grand Prix,Vettel,Aston Martin,9,10,22.27,75.67,0.44
+25536,2022,Monaco Grand Prix,Gasly,AlphaTauri,17,11,22.27,75.67,0.44
+25537,2022,Monaco Grand Prix,Ocon,Alpine F1 Team,10,12,22.27,75.67,0.44
+25538,2022,Monaco Grand Prix,Ricciardo,McLaren,14,13,22.27,75.67,0.44
+25539,2022,Monaco Grand Prix,Stroll,Aston Martin,18,14,22.27,75.67,0.44
+25546,2022,Azerbaijan Grand Prix,Verstappen,Red Bull,3,1,25.44,59.49,0.0
+25547,2022,Azerbaijan Grand Prix,Pérez,Red Bull,2,2,25.44,59.49,0.0
+25548,2022,Azerbaijan Grand Prix,Russell,Mercedes,5,3,25.44,59.49,0.0
+25549,2022,Azerbaijan Grand Prix,Hamilton,Mercedes,7,4,25.44,59.49,0.0
+25550,2022,Azerbaijan Grand Prix,Gasly,AlphaTauri,6,5,25.44,59.49,0.0
+25551,2022,Azerbaijan Grand Prix,Vettel,Aston Martin,9,6,25.44,59.49,0.0
+25552,2022,Azerbaijan Grand Prix,Alonso,Alpine F1 Team,10,7,25.44,59.49,0.0
+25553,2022,Azerbaijan Grand Prix,Ricciardo,McLaren,12,8,25.44,59.49,0.0
+25554,2022,Azerbaijan Grand Prix,Norris,McLaren,11,9,25.44,59.49,0.0
+25555,2022,Azerbaijan Grand Prix,Ocon,Alpine F1 Team,13,10,25.44,59.49,0.0
+25566,2022,Canadian Grand Prix,Verstappen,Red Bull,1,1,20.76,28.93,0.0
+25567,2022,Canadian Grand Prix,Sainz,Ferrari,3,2,20.76,28.93,0.0
+25568,2022,Canadian Grand Prix,Hamilton,Mercedes,4,3,20.76,28.93,0.0
+25569,2022,Canadian Grand Prix,Russell,Mercedes,8,4,20.76,28.93,0.0
+25570,2022,Canadian Grand Prix,Leclerc,Ferrari,19,5,20.76,28.93,0.0
+25571,2022,Canadian Grand Prix,Ocon,Alpine F1 Team,7,6,20.76,28.93,0.0
+25572,2022,Canadian Grand Prix,Bottas,Alfa Romeo,11,7,20.76,28.93,0.0
+25573,2022,Canadian Grand Prix,Zhou,Alfa Romeo,10,8,20.76,28.93,0.0
+25574,2022,Canadian Grand Prix,Alonso,Alpine F1 Team,2,9,20.76,28.93,0.0
+25575,2022,Canadian Grand Prix,Stroll,Aston Martin,17,10,20.76,28.93,0.0
+25576,2022,Canadian Grand Prix,Ricciardo,McLaren,9,11,20.76,28.93,0.0
+25577,2022,Canadian Grand Prix,Vettel,Aston Martin,16,12,20.76,28.93,0.0
+25578,2022,Canadian Grand Prix,Albon,Williams,12,13,20.76,28.93,0.0
+25579,2022,Canadian Grand Prix,Gasly,AlphaTauri,15,14,20.76,28.93,0.0
+25580,2022,Canadian Grand Prix,Norris,McLaren,14,15,20.76,28.93,0.0
+25581,2022,Canadian Grand Prix,Latifi,Williams,18,16,20.76,28.93,0.0
+25582,2022,Canadian Grand Prix,Magnussen,Haas F1 Team,5,17,20.76,28.93,0.0
+25586,2022,British Grand Prix,Sainz,Ferrari,1,1,18.25,59.75,0.04
+25587,2022,British Grand Prix,Pérez,Red Bull,4,2,18.25,59.75,0.04
+25588,2022,British Grand Prix,Hamilton,Mercedes,5,3,18.25,59.75,0.04
+25589,2022,British Grand Prix,Leclerc,Ferrari,3,4,18.25,59.75,0.04
+25590,2022,British Grand Prix,Alonso,Alpine F1 Team,7,5,18.25,59.75,0.04
+25591,2022,British Grand Prix,Norris,McLaren,6,6,18.25,59.75,0.04
+25592,2022,British Grand Prix,Verstappen,Red Bull,2,7,18.25,59.75,0.04
+25593,2022,British Grand Prix,Schumacher,Haas F1 Team,19,8,18.25,59.75,0.04
+25594,2022,British Grand Prix,Vettel,Aston Martin,18,9,18.25,59.75,0.04
+25595,2022,British Grand Prix,Magnussen,Haas F1 Team,17,10,18.25,59.75,0.04
+25596,2022,British Grand Prix,Stroll,Aston Martin,20,11,18.25,59.75,0.04
+25597,2022,British Grand Prix,Latifi,Williams,10,12,18.25,59.75,0.04
+25598,2022,British Grand Prix,Ricciardo,McLaren,14,13,18.25,59.75,0.04
+25599,2022,British Grand Prix,Tsunoda,AlphaTauri,13,14,18.25,59.75,0.04
+25606,2022,Austrian Grand Prix,Leclerc,Ferrari,2,1,20.26,35.14,0.0
+25607,2022,Austrian Grand Prix,Verstappen,Red Bull,1,2,20.26,35.14,0.0
+25608,2022,Austrian Grand Prix,Hamilton,Mercedes,8,3,20.26,35.14,0.0
+25609,2022,Austrian Grand Prix,Russell,Mercedes,4,4,20.26,35.14,0.0
+25610,2022,Austrian Grand Prix,Ocon,Alpine F1 Team,6,5,20.26,35.14,0.0
+25626,2022,French Grand Prix,Verstappen,Red Bull,2,1,30.16,47.73,0.0
+25627,2022,French Grand Prix,Hamilton,Mercedes,4,2,30.16,47.73,0.0
+25628,2022,French Grand Prix,Russell,Mercedes,6,3,30.16,47.73,0.0
+25629,2022,French Grand Prix,Pérez,Red Bull,3,4,30.16,47.73,0.0
+25630,2022,French Grand Prix,Sainz,Ferrari,19,5,30.16,47.73,0.0
+25631,2022,French Grand Prix,Alonso,Alpine F1 Team,7,6,30.16,47.73,0.0
+25632,2022,French Grand Prix,Norris,McLaren,5,7,30.16,47.73,0.0
+25633,2022,French Grand Prix,Ocon,Alpine F1 Team,10,8,30.16,47.73,0.0
+25634,2022,French Grand Prix,Ricciardo,McLaren,9,9,30.16,47.73,0.0
+25635,2022,French Grand Prix,Stroll,Aston Martin,15,10,30.16,47.73,0.0
+25636,2022,French Grand Prix,Vettel,Aston Martin,12,11,30.16,47.73,0.0
+25637,2022,French Grand Prix,Gasly,AlphaTauri,14,12,30.16,47.73,0.0
+25638,2022,French Grand Prix,Albon,Williams,13,13,30.16,47.73,0.0
+25639,2022,French Grand Prix,Bottas,Alfa Romeo,11,14,30.16,47.73,0.0
+25640,2022,French Grand Prix,Schumacher,Haas F1 Team,17,15,30.16,47.73,0.0
+25646,2022,Hungarian Grand Prix,Verstappen,Red Bull,10,1,18.56,69.32,0.28
+25647,2022,Hungarian Grand Prix,Hamilton,Mercedes,7,2,18.56,69.32,0.28
+25648,2022,Hungarian Grand Prix,Russell,Mercedes,1,3,18.56,69.32,0.28
+25649,2022,Hungarian Grand Prix,Sainz,Ferrari,2,4,18.56,69.32,0.28
+25650,2022,Hungarian Grand Prix,Pérez,Red Bull,11,5,18.56,69.32,0.28
+25651,2022,Hungarian Grand Prix,Leclerc,Ferrari,3,6,18.56,69.32,0.28
+25652,2022,Hungarian Grand Prix,Norris,McLaren,4,7,18.56,69.32,0.28
+25666,2022,Belgian Grand Prix,Verstappen,Red Bull,14,1,21.79,40.52,0.0
+25667,2022,Belgian Grand Prix,Pérez,Red Bull,2,2,21.79,40.52,0.0
+25668,2022,Belgian Grand Prix,Sainz,Ferrari,1,3,21.79,40.52,0.0
+25669,2022,Belgian Grand Prix,Russell,Mercedes,5,4,21.79,40.52,0.0
+25670,2022,Belgian Grand Prix,Alonso,Alpine F1 Team,3,5,21.79,40.52,0.0
+25671,2022,Belgian Grand Prix,Leclerc,Ferrari,15,6,21.79,40.52,0.0
+25672,2022,Belgian Grand Prix,Ocon,Alpine F1 Team,16,7,21.79,40.52,0.0
+25673,2022,Belgian Grand Prix,Vettel,Aston Martin,10,8,21.79,40.52,0.0
+25674,2022,Belgian Grand Prix,Gasly,AlphaTauri,0,9,21.79,40.52,0.0
+25675,2022,Belgian Grand Prix,Albon,Williams,6,10,21.79,40.52,0.0
+25676,2022,Belgian Grand Prix,Stroll,Aston Martin,9,11,21.79,40.52,0.0
+25677,2022,Belgian Grand Prix,Norris,McLaren,17,12,21.79,40.52,0.0
+25678,2022,Belgian Grand Prix,Tsunoda,AlphaTauri,0,13,21.79,40.52,0.0
+25679,2022,Belgian Grand Prix,Zhou,Alfa Romeo,18,14,21.79,40.52,0.0
+25680,2022,Belgian Grand Prix,Ricciardo,McLaren,7,15,21.79,40.52,0.0
+25686,2022,Dutch Grand Prix,Verstappen,Red Bull,1,1,22.73,75.38,0.0
+25687,2022,Dutch Grand Prix,Russell,Mercedes,6,2,22.73,75.38,0.0
+25688,2022,Dutch Grand Prix,Leclerc,Ferrari,2,3,22.73,75.38,0.0
+25689,2022,Dutch Grand Prix,Hamilton,Mercedes,4,4,22.73,75.38,0.0
+25690,2022,Dutch Grand Prix,Pérez,Red Bull,5,5,22.73,75.38,0.0
+25691,2022,Dutch Grand Prix,Alonso,Alpine F1 Team,13,6,22.73,75.38,0.0
+25692,2022,Dutch Grand Prix,Norris,McLaren,7,7,22.73,75.38,0.0
+25693,2022,Dutch Grand Prix,Sainz,Ferrari,3,8,22.73,75.38,0.0
+25694,2022,Dutch Grand Prix,Ocon,Alpine F1 Team,12,9,22.73,75.38,0.0
+25695,2022,Dutch Grand Prix,Stroll,Aston Martin,10,10,22.73,75.38,0.0
+25696,2022,Dutch Grand Prix,Gasly,AlphaTauri,11,11,22.73,75.38,0.0
+25697,2022,Dutch Grand Prix,Albon,Williams,15,12,22.73,75.38,0.0
+25698,2022,Dutch Grand Prix,Schumacher,Haas F1 Team,8,13,22.73,75.38,0.0
+25699,2022,Dutch Grand Prix,Vettel,Aston Martin,19,14,22.73,75.38,0.0
+25700,2022,Dutch Grand Prix,Magnussen,Haas F1 Team,18,15,22.73,75.38,0.0
+25701,2022,Dutch Grand Prix,Zhou,Alfa Romeo,14,16,22.73,75.38,0.0
+25702,2022,Dutch Grand Prix,Ricciardo,McLaren,17,17,22.73,75.38,0.0
+25706,2022,Italian Grand Prix,Verstappen,Red Bull,7,1,27.73,33.15,0.0
+25707,2022,Italian Grand Prix,Leclerc,Ferrari,1,2,27.73,33.15,0.0
+25708,2022,Italian Grand Prix,Russell,Mercedes,2,3,27.73,33.15,0.0
+25709,2022,Italian Grand Prix,Sainz,Ferrari,18,4,27.73,33.15,0.0
+25710,2022,Italian Grand Prix,Hamilton,Mercedes,19,5,27.73,33.15,0.0
+25711,2022,Italian Grand Prix,Pérez,Red Bull,13,6,27.73,33.15,0.0
+25712,2022,Italian Grand Prix,Norris,McLaren,3,7,27.73,33.15,0.0
+25713,2022,Italian Grand Prix,Gasly,AlphaTauri,5,8,27.73,33.15,0.0
+25714,2022,Italian Grand Prix,de Vries,Williams,8,9,27.73,33.15,0.0
+25715,2022,Italian Grand Prix,Zhou,Alfa Romeo,9,10,27.73,33.15,0.0
+25716,2022,Italian Grand Prix,Ocon,Alpine F1 Team,14,11,27.73,33.15,0.0
+25717,2022,Italian Grand Prix,Schumacher,Haas F1 Team,17,12,27.73,33.15,0.0
+25726,2022,Singapore Grand Prix,Pérez,Red Bull,2,1,26.23,87.45,0.18
+25727,2022,Singapore Grand Prix,Leclerc,Ferrari,1,2,26.23,87.45,0.18
+25728,2022,Singapore Grand Prix,Sainz,Ferrari,4,3,26.23,87.45,0.18
+25729,2022,Singapore Grand Prix,Norris,McLaren,6,4,26.23,87.45,0.18
+25730,2022,Singapore Grand Prix,Ricciardo,McLaren,16,5,26.23,87.45,0.18
+25731,2022,Singapore Grand Prix,Stroll,Aston Martin,11,6,26.23,87.45,0.18
+25732,2022,Singapore Grand Prix,Verstappen,Red Bull,8,7,26.23,87.45,0.18
+25733,2022,Singapore Grand Prix,Vettel,Aston Martin,13,8,26.23,87.45,0.18
+25734,2022,Singapore Grand Prix,Hamilton,Mercedes,3,9,26.23,87.45,0.18
+25735,2022,Singapore Grand Prix,Gasly,AlphaTauri,7,10,26.23,87.45,0.18
+25736,2022,Singapore Grand Prix,Bottas,Alfa Romeo,15,11,26.23,87.45,0.18
+25737,2022,Singapore Grand Prix,Magnussen,Haas F1 Team,9,12,26.23,87.45,0.18
+25746,2022,Japanese Grand Prix,Verstappen,Red Bull,1,1,16.72,86.21,0.98
+25747,2022,Japanese Grand Prix,Pérez,Red Bull,4,2,16.72,86.21,0.98
+25748,2022,Japanese Grand Prix,Leclerc,Ferrari,2,3,16.72,86.21,0.98
+25749,2022,Japanese Grand Prix,Ocon,Alpine F1 Team,5,4,16.72,86.21,0.98
+25750,2022,Japanese Grand Prix,Hamilton,Mercedes,6,5,16.72,86.21,0.98
+25751,2022,Japanese Grand Prix,Vettel,Aston Martin,9,6,16.72,86.21,0.98
+25752,2022,Japanese Grand Prix,Alonso,Alpine F1 Team,7,7,16.72,86.21,0.98
+25753,2022,Japanese Grand Prix,Russell,Mercedes,8,8,16.72,86.21,0.98
+25754,2022,Japanese Grand Prix,Latifi,Williams,20,9,16.72,86.21,0.98
+25755,2022,Japanese Grand Prix,Norris,McLaren,10,10,16.72,86.21,0.98
+25756,2022,Japanese Grand Prix,Ricciardo,McLaren,11,11,16.72,86.21,0.98
+25757,2022,Japanese Grand Prix,Stroll,Aston Martin,19,12,16.72,86.21,0.98
+25758,2022,Japanese Grand Prix,Tsunoda,AlphaTauri,13,13,16.72,86.21,0.98
+25759,2022,Japanese Grand Prix,Magnussen,Haas F1 Team,18,14,16.72,86.21,0.98
+25760,2022,Japanese Grand Prix,Bottas,Alfa Romeo,12,15,16.72,86.21,0.98
+25761,2022,Japanese Grand Prix,Zhou,Alfa Romeo,14,16,16.72,86.21,0.98
+25762,2022,Japanese Grand Prix,Schumacher,Haas F1 Team,15,17,16.72,86.21,0.98
+25763,2022,Japanese Grand Prix,Gasly,AlphaTauri,17,18,16.72,86.21,0.98
+25766,2022,United States Grand Prix,Verstappen,Red Bull,2,1,29.29,49.62,0.0
+25767,2022,United States Grand Prix,Hamilton,Mercedes,3,2,29.29,49.62,0.0
+25768,2022,United States Grand Prix,Leclerc,Ferrari,12,3,29.29,49.62,0.0
+25769,2022,United States Grand Prix,Pérez,Red Bull,9,4,29.29,49.62,0.0
+25770,2022,United States Grand Prix,Russell,Mercedes,4,5,29.29,49.62,0.0
+25771,2022,United States Grand Prix,Norris,McLaren,6,6,29.29,49.62,0.0
+25772,2022,United States Grand Prix,Alonso,Alpine F1 Team,14,7,29.29,49.62,0.0
+25773,2022,United States Grand Prix,Vettel,Aston Martin,10,8,29.29,49.62,0.0
+25774,2022,United States Grand Prix,Magnussen,Haas F1 Team,13,9,29.29,49.62,0.0
+25775,2022,United States Grand Prix,Tsunoda,AlphaTauri,19,10,29.29,49.62,0.0
+25776,2022,United States Grand Prix,Ocon,Alpine F1 Team,0,11,29.29,49.62,0.0
+25777,2022,United States Grand Prix,Zhou,Alfa Romeo,18,12,29.29,49.62,0.0
+25778,2022,United States Grand Prix,Albon,Williams,8,13,29.29,49.62,0.0
+25779,2022,United States Grand Prix,Gasly,AlphaTauri,11,14,29.29,49.62,0.0
+25780,2022,United States Grand Prix,Schumacher,Haas F1 Team,16,15,29.29,49.62,0.0
+25781,2022,United States Grand Prix,Ricciardo,McLaren,15,16,29.29,49.62,0.0
+25782,2022,United States Grand Prix,Latifi,Williams,17,17,29.29,49.62,0.0
+25786,2022,Mexico City Grand Prix,Verstappen,Red Bull,1,1,24.31,34.44,0.0
+25787,2022,Mexico City Grand Prix,Hamilton,Mercedes,3,2,24.31,34.44,0.0
+25788,2022,Mexico City Grand Prix,Pérez,Red Bull,4,3,24.31,34.44,0.0
+25789,2022,Mexico City Grand Prix,Russell,Mercedes,2,4,24.31,34.44,0.0
+25790,2022,Mexico City Grand Prix,Sainz,Ferrari,5,5,24.31,34.44,0.0
+25791,2022,Mexico City Grand Prix,Leclerc,Ferrari,7,6,24.31,34.44,0.0
+25806,2022,São Paulo Grand Prix,Russell,Mercedes,1,1,23.01,76.08,0.0
+25807,2022,São Paulo Grand Prix,Hamilton,Mercedes,2,2,23.01,76.08,0.0
+25808,2022,São Paulo Grand Prix,Sainz,Ferrari,7,3,23.01,76.08,0.0
+25809,2022,São Paulo Grand Prix,Leclerc,Ferrari,5,4,23.01,76.08,0.0
+25810,2022,São Paulo Grand Prix,Alonso,Alpine F1 Team,17,5,23.01,76.08,0.0
+25811,2022,São Paulo Grand Prix,Verstappen,Red Bull,3,6,23.01,76.08,0.0
+25812,2022,São Paulo Grand Prix,Pérez,Red Bull,4,7,23.01,76.08,0.0
+25813,2022,São Paulo Grand Prix,Ocon,Alpine F1 Team,16,8,23.01,76.08,0.0
+25814,2022,São Paulo Grand Prix,Bottas,Alfa Romeo,14,9,23.01,76.08,0.0
+25815,2022,São Paulo Grand Prix,Stroll,Aston Martin,15,10,23.01,76.08,0.0
+25816,2022,São Paulo Grand Prix,Vettel,Aston Martin,9,11,23.01,76.08,0.0
+25817,2022,São Paulo Grand Prix,Zhou,Alfa Romeo,13,12,23.01,76.08,0.0
+25818,2022,São Paulo Grand Prix,Schumacher,Haas F1 Team,12,13,23.01,76.08,0.0
+25819,2022,São Paulo Grand Prix,Gasly,AlphaTauri,10,14,23.01,76.08,0.0
+25820,2022,São Paulo Grand Prix,Albon,Williams,19,15,23.01,76.08,0.0
+25821,2022,São Paulo Grand Prix,Latifi,Williams,18,16,23.01,76.08,0.0
+25826,2022,Abu Dhabi Grand Prix,Verstappen,Red Bull,1,1,28.58,61.68,0.0
+25827,2022,Abu Dhabi Grand Prix,Leclerc,Ferrari,3,2,28.58,61.68,0.0
+25828,2022,Abu Dhabi Grand Prix,Pérez,Red Bull,2,3,28.58,61.68,0.0
+25829,2022,Abu Dhabi Grand Prix,Sainz,Ferrari,4,4,28.58,61.68,0.0
+25830,2022,Abu Dhabi Grand Prix,Russell,Mercedes,6,5,28.58,61.68,0.0
+25831,2022,Abu Dhabi Grand Prix,Norris,McLaren,7,6,28.58,61.68,0.0
+25832,2022,Abu Dhabi Grand Prix,Ocon,Alpine F1 Team,8,7,28.58,61.68,0.0
+25833,2022,Abu Dhabi Grand Prix,Stroll,Aston Martin,14,8,28.58,61.68,0.0
+25834,2022,Abu Dhabi Grand Prix,Ricciardo,McLaren,13,9,28.58,61.68,0.0
+25835,2022,Abu Dhabi Grand Prix,Vettel,Aston Martin,9,10,28.58,61.68,0.0
+25836,2022,Abu Dhabi Grand Prix,Tsunoda,AlphaTauri,11,11,28.58,61.68,0.0
+25846,2023,Bahrain Grand Prix,Verstappen,Red Bull,1,1,27.43,21.5,0.0
+25847,2023,Bahrain Grand Prix,Pérez,Red Bull,2,2,27.43,21.5,0.0
+25848,2023,Bahrain Grand Prix,Alonso,Aston Martin,5,3,27.43,21.5,0.0
+25849,2023,Bahrain Grand Prix,Sainz,Ferrari,4,4,27.43,21.5,0.0
+25850,2023,Bahrain Grand Prix,Hamilton,Mercedes,7,5,27.43,21.5,0.0
+25851,2023,Bahrain Grand Prix,Stroll,Aston Martin,8,6,27.43,21.5,0.0
+25852,2023,Bahrain Grand Prix,Russell,Mercedes,6,7,27.43,21.5,0.0
+25853,2023,Bahrain Grand Prix,Bottas,Alfa Romeo,12,8,27.43,21.5,0.0
+25854,2023,Bahrain Grand Prix,Gasly,Alpine F1 Team,20,9,27.43,21.5,0.0
+25855,2023,Bahrain Grand Prix,Albon,Williams,15,10,27.43,21.5,0.0
+25856,2023,Bahrain Grand Prix,Tsunoda,AlphaTauri,14,11,27.43,21.5,0.0
+25866,2023,Saudi Arabian Grand Prix,Pérez,Red Bull,1,1,26.09,57.79,0.0
+25867,2023,Saudi Arabian Grand Prix,Verstappen,Red Bull,15,2,26.09,57.79,0.0
+25868,2023,Saudi Arabian Grand Prix,Alonso,Aston Martin,2,3,26.09,57.79,0.0
+25869,2023,Saudi Arabian Grand Prix,Russell,Mercedes,3,4,26.09,57.79,0.0
+25870,2023,Saudi Arabian Grand Prix,Hamilton,Mercedes,7,5,26.09,57.79,0.0
+25871,2023,Saudi Arabian Grand Prix,Sainz,Ferrari,4,6,26.09,57.79,0.0
+25872,2023,Saudi Arabian Grand Prix,Leclerc,Ferrari,12,7,26.09,57.79,0.0
+25873,2023,Saudi Arabian Grand Prix,Ocon,Alpine F1 Team,6,8,26.09,57.79,0.0
+25874,2023,Saudi Arabian Grand Prix,Gasly,Alpine F1 Team,9,9,26.09,57.79,0.0
+25875,2023,Saudi Arabian Grand Prix,Magnussen,Haas F1 Team,13,10,26.09,57.79,0.0
+25876,2023,Saudi Arabian Grand Prix,Tsunoda,AlphaTauri,16,11,26.09,57.79,0.0
+25877,2023,Saudi Arabian Grand Prix,Hülkenberg,Haas F1 Team,10,12,26.09,57.79,0.0
+25878,2023,Saudi Arabian Grand Prix,Zhou,Alfa Romeo,11,13,26.09,57.79,0.0
+25879,2023,Saudi Arabian Grand Prix,de Vries,AlphaTauri,18,14,26.09,57.79,0.0
+25880,2023,Saudi Arabian Grand Prix,Piastri,McLaren,8,15,26.09,57.79,0.0
+25881,2023,Saudi Arabian Grand Prix,Sargeant,Williams,20,16,26.09,57.79,0.0
+25882,2023,Saudi Arabian Grand Prix,Norris,McLaren,19,17,26.09,57.79,0.0
+25886,2023,Australian Grand Prix,Verstappen,Red Bull,1,1,17.45,54.16,0.0
+25887,2023,Australian Grand Prix,Hamilton,Mercedes,3,2,17.45,54.16,0.0
+25888,2023,Australian Grand Prix,Alonso,Aston Martin,4,3,17.45,54.16,0.0
+25889,2023,Australian Grand Prix,Stroll,Aston Martin,6,4,17.45,54.16,0.0
+25890,2023,Australian Grand Prix,Pérez,Red Bull,0,5,17.45,54.16,0.0
+25891,2023,Australian Grand Prix,Norris,McLaren,13,6,17.45,54.16,0.0
+25892,2023,Australian Grand Prix,Hülkenberg,Haas F1 Team,10,7,17.45,54.16,0.0
+25893,2023,Australian Grand Prix,Piastri,McLaren,16,8,17.45,54.16,0.0
+25894,2023,Australian Grand Prix,Zhou,Alfa Romeo,17,9,17.45,54.16,0.0
+25895,2023,Australian Grand Prix,Tsunoda,AlphaTauri,12,10,17.45,54.16,0.0
+25896,2023,Australian Grand Prix,Bottas,Alfa Romeo,0,11,17.45,54.16,0.0
+25897,2023,Australian Grand Prix,Sainz,Ferrari,5,12,17.45,54.16,0.0
+25906,2023,Azerbaijan Grand Prix,Pérez,Red Bull,3,1,24.86,49.22,0.0
+25907,2023,Azerbaijan Grand Prix,Verstappen,Red Bull,2,2,24.86,49.22,0.0
+25908,2023,Azerbaijan Grand Prix,Leclerc,Ferrari,1,3,24.86,49.22,0.0
+25909,2023,Azerbaijan Grand Prix,Alonso,Aston Martin,6,4,24.86,49.22,0.0
+25910,2023,Azerbaijan Grand Prix,Sainz,Ferrari,4,5,24.86,49.22,0.0
+25911,2023,Azerbaijan Grand Prix,Hamilton,Mercedes,5,6,24.86,49.22,0.0
+25912,2023,Azerbaijan Grand Prix,Stroll,Aston Martin,9,7,24.86,49.22,0.0
+25913,2023,Azerbaijan Grand Prix,Russell,Mercedes,11,8,24.86,49.22,0.0
+25914,2023,Azerbaijan Grand Prix,Norris,McLaren,7,9,24.86,49.22,0.0
+25915,2023,Azerbaijan Grand Prix,Tsunoda,AlphaTauri,8,10,24.86,49.22,0.0
+25916,2023,Azerbaijan Grand Prix,Piastri,McLaren,10,11,24.86,49.22,0.0
+25917,2023,Azerbaijan Grand Prix,Albon,Williams,12,12,24.86,49.22,0.0
+25918,2023,Azerbaijan Grand Prix,Magnussen,Haas F1 Team,16,13,24.86,49.22,0.0
+25919,2023,Azerbaijan Grand Prix,Gasly,Alpine F1 Team,17,14,24.86,49.22,0.0
+25920,2023,Azerbaijan Grand Prix,Ocon,Alpine F1 Team,0,15,24.86,49.22,0.0
+25921,2023,Azerbaijan Grand Prix,Sargeant,Williams,14,16,24.86,49.22,0.0
+25926,2023,Miami Grand Prix,Verstappen,Red Bull,9,1,27.12,59.43,0.0
+25927,2023,Miami Grand Prix,Pérez,Red Bull,1,2,27.12,59.43,0.0
+25928,2023,Miami Grand Prix,Alonso,Aston Martin,2,3,27.12,59.43,0.0
+25929,2023,Miami Grand Prix,Russell,Mercedes,6,4,27.12,59.43,0.0
+25930,2023,Miami Grand Prix,Sainz,Ferrari,3,5,27.12,59.43,0.0
+25931,2023,Miami Grand Prix,Hamilton,Mercedes,13,6,27.12,59.43,0.0
+25932,2023,Miami Grand Prix,Leclerc,Ferrari,7,7,27.12,59.43,0.0
+25933,2023,Miami Grand Prix,Gasly,Alpine F1 Team,5,8,27.12,59.43,0.0
+25934,2023,Miami Grand Prix,Ocon,Alpine F1 Team,8,9,27.12,59.43,0.0
+25935,2023,Miami Grand Prix,Magnussen,Haas F1 Team,4,10,27.12,59.43,0.0
+25936,2023,Miami Grand Prix,Tsunoda,AlphaTauri,17,11,27.12,59.43,0.0
+25937,2023,Miami Grand Prix,Stroll,Aston Martin,18,12,27.12,59.43,0.0
+25938,2023,Miami Grand Prix,Bottas,Alfa Romeo,10,13,27.12,59.43,0.0
+25939,2023,Miami Grand Prix,Albon,Williams,11,14,27.12,59.43,0.0
+25940,2023,Miami Grand Prix,Hülkenberg,Haas F1 Team,12,15,27.12,59.43,0.0
+25941,2023,Miami Grand Prix,Zhou,Alfa Romeo,14,16,27.12,59.43,0.0
+25942,2023,Miami Grand Prix,Norris,McLaren,16,17,27.12,59.43,0.0
+25943,2023,Miami Grand Prix,de Vries,AlphaTauri,15,18,27.12,59.43,0.0
+25946,2023,Monaco Grand Prix,Verstappen,Red Bull,1,1,25.07,45.86,0.15
+25947,2023,Monaco Grand Prix,Alonso,Aston Martin,2,2,25.07,45.86,0.15
+25948,2023,Monaco Grand Prix,Ocon,Alpine F1 Team,3,3,25.07,45.86,0.15
+25949,2023,Monaco Grand Prix,Hamilton,Mercedes,5,4,25.07,45.86,0.15
+25950,2023,Monaco Grand Prix,Russell,Mercedes,8,5,25.07,45.86,0.15
+25951,2023,Monaco Grand Prix,Leclerc,Ferrari,6,6,25.07,45.86,0.15
+25952,2023,Monaco Grand Prix,Gasly,Alpine F1 Team,7,7,25.07,45.86,0.15
+25953,2023,Monaco Grand Prix,Sainz,Ferrari,4,8,25.07,45.86,0.15
+25966,2023,Spanish Grand Prix,Verstappen,Red Bull,1,1,22.67,63.08,0.0
+25967,2023,Spanish Grand Prix,Hamilton,Mercedes,4,2,22.67,63.08,0.0
+25968,2023,Spanish Grand Prix,Russell,Mercedes,12,3,22.67,63.08,0.0
+25969,2023,Spanish Grand Prix,Pérez,Red Bull,11,4,22.67,63.08,0.0
+25970,2023,Spanish Grand Prix,Sainz,Ferrari,2,5,22.67,63.08,0.0
+25971,2023,Spanish Grand Prix,Stroll,Aston Martin,5,6,22.67,63.08,0.0
+25972,2023,Spanish Grand Prix,Alonso,Aston Martin,8,7,22.67,63.08,0.0
+25973,2023,Spanish Grand Prix,Ocon,Alpine F1 Team,6,8,22.67,63.08,0.0
+25974,2023,Spanish Grand Prix,Zhou,Alfa Romeo,13,9,22.67,63.08,0.0
+25975,2023,Spanish Grand Prix,Gasly,Alpine F1 Team,10,10,22.67,63.08,0.0
+25976,2023,Spanish Grand Prix,Leclerc,Ferrari,19,11,22.67,63.08,0.0
+25977,2023,Spanish Grand Prix,Tsunoda,AlphaTauri,15,12,22.67,63.08,0.0
+25986,2023,Canadian Grand Prix,Verstappen,Red Bull,1,1,18.53,63.9,0.0
+25987,2023,Canadian Grand Prix,Alonso,Aston Martin,2,2,18.53,63.9,0.0
+25988,2023,Canadian Grand Prix,Hamilton,Mercedes,3,3,18.53,63.9,0.0
+25989,2023,Canadian Grand Prix,Leclerc,Ferrari,10,4,18.53,63.9,0.0
+25990,2023,Canadian Grand Prix,Sainz,Ferrari,11,5,18.53,63.9,0.0
+25991,2023,Canadian Grand Prix,Pérez,Red Bull,12,6,18.53,63.9,0.0
+25992,2023,Canadian Grand Prix,Albon,Williams,9,7,18.53,63.9,0.0
+25993,2023,Canadian Grand Prix,Ocon,Alpine F1 Team,6,8,18.53,63.9,0.0
+25994,2023,Canadian Grand Prix,Stroll,Aston Martin,16,9,18.53,63.9,0.0
+25995,2023,Canadian Grand Prix,Bottas,Alfa Romeo,14,10,18.53,63.9,0.0
+25996,2023,Canadian Grand Prix,Piastri,McLaren,8,11,18.53,63.9,0.0
+25997,2023,Canadian Grand Prix,Gasly,Alpine F1 Team,15,12,18.53,63.9,0.0
+25998,2023,Canadian Grand Prix,Norris,McLaren,7,13,18.53,63.9,0.0
+25999,2023,Canadian Grand Prix,Tsunoda,AlphaTauri,19,14,18.53,63.9,0.0
+26006,2023,Austrian Grand Prix,Verstappen,Red Bull,1,1,22.4,52.05,0.02
+26007,2023,Austrian Grand Prix,Leclerc,Ferrari,2,2,22.4,52.05,0.02
+26008,2023,Austrian Grand Prix,Pérez,Red Bull,15,3,22.4,52.05,0.02
+26009,2023,Austrian Grand Prix,Norris,McLaren,4,4,22.4,52.05,0.02
+26010,2023,Austrian Grand Prix,Alonso,Aston Martin,7,5,22.4,52.05,0.02
+26011,2023,Austrian Grand Prix,Sainz,Ferrari,3,6,22.4,52.05,0.02
+26012,2023,Austrian Grand Prix,Russell,Mercedes,11,7,22.4,52.05,0.02
+26013,2023,Austrian Grand Prix,Hamilton,Mercedes,5,8,22.4,52.05,0.02
+26014,2023,Austrian Grand Prix,Stroll,Aston Martin,6,9,22.4,52.05,0.02
+26015,2023,Austrian Grand Prix,Gasly,Alpine F1 Team,9,10,22.4,52.05,0.02
+26016,2023,Austrian Grand Prix,Albon,Williams,10,11,22.4,52.05,0.02
+26026,2023,British Grand Prix,Verstappen,Red Bull,1,1,21.47,56.19,0.0
+26027,2023,British Grand Prix,Norris,McLaren,2,2,21.47,56.19,0.0
+26028,2023,British Grand Prix,Hamilton,Mercedes,7,3,21.47,56.19,0.0
+26029,2023,British Grand Prix,Piastri,McLaren,3,4,21.47,56.19,0.0
+26030,2023,British Grand Prix,Russell,Mercedes,6,5,21.47,56.19,0.0
+26031,2023,British Grand Prix,Pérez,Red Bull,15,6,21.47,56.19,0.0
+26032,2023,British Grand Prix,Alonso,Aston Martin,9,7,21.47,56.19,0.0
+26033,2023,British Grand Prix,Albon,Williams,8,8,21.47,56.19,0.0
+26034,2023,British Grand Prix,Leclerc,Ferrari,4,9,21.47,56.19,0.0
+26035,2023,British Grand Prix,Sainz,Ferrari,5,10,21.47,56.19,0.0
+26036,2023,British Grand Prix,Sargeant,Williams,14,11,21.47,56.19,0.0
+26037,2023,British Grand Prix,Bottas,Alfa Romeo,20,12,21.47,56.19,0.0
+26038,2023,British Grand Prix,Hülkenberg,Haas F1 Team,11,13,21.47,56.19,0.0
+26039,2023,British Grand Prix,Stroll,Aston Martin,12,14,21.47,56.19,0.0
+26040,2023,British Grand Prix,Zhou,Alfa Romeo,17,15,21.47,56.19,0.0
+26041,2023,British Grand Prix,Tsunoda,AlphaTauri,16,16,21.47,56.19,0.0
+26042,2023,British Grand Prix,de Vries,AlphaTauri,18,17,21.47,56.19,0.0
+26046,2023,Hungarian Grand Prix,Verstappen,Red Bull,2,1,28.81,32.8,0.0
+26047,2023,Hungarian Grand Prix,Norris,McLaren,3,2,28.81,32.8,0.0
+26048,2023,Hungarian Grand Prix,Pérez,Red Bull,9,3,28.81,32.8,0.0
+26049,2023,Hungarian Grand Prix,Hamilton,Mercedes,1,4,28.81,32.8,0.0
+26050,2023,Hungarian Grand Prix,Piastri,McLaren,4,5,28.81,32.8,0.0
+26051,2023,Hungarian Grand Prix,Russell,Mercedes,18,6,28.81,32.8,0.0
+26052,2023,Hungarian Grand Prix,Leclerc,Ferrari,6,7,28.81,32.8,0.0
+26053,2023,Hungarian Grand Prix,Sainz,Ferrari,11,8,28.81,32.8,0.0
+26054,2023,Hungarian Grand Prix,Alonso,Aston Martin,8,9,28.81,32.8,0.0
+26066,2023,Belgian Grand Prix,Verstappen,Red Bull,6,1,17.87,61.93,0.07
+26067,2023,Belgian Grand Prix,Pérez,Red Bull,2,2,17.87,61.93,0.07
+26068,2023,Belgian Grand Prix,Leclerc,Ferrari,1,3,17.87,61.93,0.07
+26069,2023,Belgian Grand Prix,Hamilton,Mercedes,3,4,17.87,61.93,0.07
+26070,2023,Belgian Grand Prix,Alonso,Aston Martin,9,5,17.87,61.93,0.07
+26071,2023,Belgian Grand Prix,Russell,Mercedes,8,6,17.87,61.93,0.07
+26072,2023,Belgian Grand Prix,Norris,McLaren,7,7,17.87,61.93,0.07
+26073,2023,Belgian Grand Prix,Ocon,Alpine F1 Team,14,8,17.87,61.93,0.07
+26074,2023,Belgian Grand Prix,Stroll,Aston Martin,10,9,17.87,61.93,0.07
+26075,2023,Belgian Grand Prix,Tsunoda,AlphaTauri,11,10,17.87,61.93,0.07
+26076,2023,Belgian Grand Prix,Gasly,Alpine F1 Team,12,11,17.87,61.93,0.07
+26077,2023,Belgian Grand Prix,Bottas,Alfa Romeo,13,12,17.87,61.93,0.07
+26078,2023,Belgian Grand Prix,Zhou,Alfa Romeo,17,13,17.87,61.93,0.07
+26079,2023,Belgian Grand Prix,Albon,Williams,15,14,17.87,61.93,0.07
+26080,2023,Belgian Grand Prix,Magnussen,Haas F1 Team,16,15,17.87,61.93,0.07
+26081,2023,Belgian Grand Prix,Ricciardo,AlphaTauri,19,16,17.87,61.93,0.07
+26082,2023,Belgian Grand Prix,Sargeant,Williams,18,17,17.87,61.93,0.07
+26083,2023,Belgian Grand Prix,Hülkenberg,Haas F1 Team,0,18,17.87,61.93,0.07
+26086,2023,Dutch Grand Prix,Verstappen,Red Bull,1,1,16.79,70.78,0.23
+26087,2023,Dutch Grand Prix,Alonso,Aston Martin,5,2,16.79,70.78,0.23
+26088,2023,Dutch Grand Prix,Gasly,Alpine F1 Team,12,3,16.79,70.78,0.23
+26089,2023,Dutch Grand Prix,Pérez,Red Bull,7,4,16.79,70.78,0.23
+26090,2023,Dutch Grand Prix,Sainz,Ferrari,6,5,16.79,70.78,0.23
+26091,2023,Dutch Grand Prix,Hamilton,Mercedes,13,6,16.79,70.78,0.23
+26092,2023,Dutch Grand Prix,Norris,McLaren,2,7,16.79,70.78,0.23
+26093,2023,Dutch Grand Prix,Albon,Williams,4,8,16.79,70.78,0.23
+26094,2023,Dutch Grand Prix,Piastri,McLaren,8,9,16.79,70.78,0.23
+26095,2023,Dutch Grand Prix,Ocon,Alpine F1 Team,16,10,16.79,70.78,0.23
+26096,2023,Dutch Grand Prix,Stroll,Aston Martin,11,11,16.79,70.78,0.23
+26097,2023,Dutch Grand Prix,Hülkenberg,Haas F1 Team,14,12,16.79,70.78,0.23
+26098,2023,Dutch Grand Prix,Lawson,AlphaTauri,19,13,16.79,70.78,0.23
+26099,2023,Dutch Grand Prix,Bottas,Alfa Romeo,18,14,16.79,70.78,0.23
+26100,2023,Dutch Grand Prix,Tsunoda,AlphaTauri,17,15,16.79,70.78,0.23
+26101,2023,Dutch Grand Prix,Magnussen,Haas F1 Team,0,16,16.79,70.78,0.23
+26102,2023,Dutch Grand Prix,Russell,Mercedes,3,17,16.79,70.78,0.23
+26106,2023,Italian Grand Prix,Verstappen,Red Bull,2,1,29.33,42.32,0.0
+26107,2023,Italian Grand Prix,Pérez,Red Bull,5,2,29.33,42.32,0.0
+26108,2023,Italian Grand Prix,Sainz,Ferrari,1,3,29.33,42.32,0.0
+26109,2023,Italian Grand Prix,Leclerc,Ferrari,3,4,29.33,42.32,0.0
+26110,2023,Italian Grand Prix,Russell,Mercedes,4,5,29.33,42.32,0.0
+26111,2023,Italian Grand Prix,Hamilton,Mercedes,8,6,29.33,42.32,0.0
+26112,2023,Italian Grand Prix,Albon,Williams,6,7,29.33,42.32,0.0
+26113,2023,Italian Grand Prix,Norris,McLaren,9,8,29.33,42.32,0.0
+26114,2023,Italian Grand Prix,Alonso,Aston Martin,10,9,29.33,42.32,0.0
+26115,2023,Italian Grand Prix,Bottas,Alfa Romeo,14,10,29.33,42.32,0.0
+26116,2023,Italian Grand Prix,Lawson,AlphaTauri,12,11,29.33,42.32,0.0
+26117,2023,Italian Grand Prix,Piastri,McLaren,7,12,29.33,42.32,0.0
+26118,2023,Italian Grand Prix,Sargeant,Williams,15,13,29.33,42.32,0.0
+26119,2023,Italian Grand Prix,Zhou,Alfa Romeo,16,14,29.33,42.32,0.0
+26120,2023,Italian Grand Prix,Gasly,Alpine F1 Team,17,15,29.33,42.32,0.0
+26121,2023,Italian Grand Prix,Stroll,Aston Martin,20,16,29.33,42.32,0.0
+26126,2023,Singapore Grand Prix,Sainz,Ferrari,1,1,29.84,72.03,0.0
+26127,2023,Singapore Grand Prix,Norris,McLaren,4,2,29.84,72.03,0.0
+26128,2023,Singapore Grand Prix,Hamilton,Mercedes,5,3,29.84,72.03,0.0
+26129,2023,Singapore Grand Prix,Leclerc,Ferrari,3,4,29.84,72.03,0.0
+26130,2023,Singapore Grand Prix,Verstappen,Red Bull,11,5,29.84,72.03,0.0
+26131,2023,Singapore Grand Prix,Gasly,Alpine F1 Team,12,6,29.84,72.03,0.0
+26132,2023,Singapore Grand Prix,Piastri,McLaren,17,7,29.84,72.03,0.0
+26133,2023,Singapore Grand Prix,Pérez,Red Bull,13,8,29.84,72.03,0.0
+26134,2023,Singapore Grand Prix,Lawson,AlphaTauri,10,9,29.84,72.03,0.0
+26135,2023,Singapore Grand Prix,Magnussen,Haas F1 Team,6,10,29.84,72.03,0.0
+26136,2023,Singapore Grand Prix,Albon,Williams,14,11,29.84,72.03,0.0
+26137,2023,Singapore Grand Prix,Zhou,Alfa Romeo,0,12,29.84,72.03,0.0
+26138,2023,Singapore Grand Prix,Hülkenberg,Haas F1 Team,9,13,29.84,72.03,0.0
+26139,2023,Singapore Grand Prix,Sargeant,Williams,18,14,29.84,72.03,0.0
+26140,2023,Singapore Grand Prix,Alonso,Aston Martin,7,15,29.84,72.03,0.0
+26146,2023,Japanese Grand Prix,Verstappen,Red Bull,1,1,27.29,42.32,0.0
+26147,2023,Japanese Grand Prix,Norris,McLaren,3,2,27.29,42.32,0.0
+26148,2023,Japanese Grand Prix,Piastri,McLaren,2,3,27.29,42.32,0.0
+26149,2023,Japanese Grand Prix,Leclerc,Ferrari,4,4,27.29,42.32,0.0
+26150,2023,Japanese Grand Prix,Hamilton,Mercedes,7,5,27.29,42.32,0.0
+26151,2023,Japanese Grand Prix,Sainz,Ferrari,6,6,27.29,42.32,0.0
+26152,2023,Japanese Grand Prix,Russell,Mercedes,8,7,27.29,42.32,0.0
+26153,2023,Japanese Grand Prix,Alonso,Aston Martin,10,8,27.29,42.32,0.0
+26154,2023,Japanese Grand Prix,Ocon,Alpine F1 Team,14,9,27.29,42.32,0.0
+26155,2023,Japanese Grand Prix,Gasly,Alpine F1 Team,12,10,27.29,42.32,0.0
+26166,2023,Qatar Grand Prix,Verstappen,Red Bull,1,1,31.46,73.16,0.0
+26167,2023,Qatar Grand Prix,Piastri,McLaren,6,2,31.46,73.16,0.0
+26168,2023,Qatar Grand Prix,Norris,McLaren,10,3,31.46,73.16,0.0
+26169,2023,Qatar Grand Prix,Russell,Mercedes,2,4,31.46,73.16,0.0
+26170,2023,Qatar Grand Prix,Leclerc,Ferrari,5,5,31.46,73.16,0.0
+26171,2023,Qatar Grand Prix,Alonso,Aston Martin,4,6,31.46,73.16,0.0
+26172,2023,Qatar Grand Prix,Ocon,Alpine F1 Team,8,7,31.46,73.16,0.0
+26173,2023,Qatar Grand Prix,Bottas,Alfa Romeo,9,8,31.46,73.16,0.0
+26174,2023,Qatar Grand Prix,Zhou,Alfa Romeo,19,9,31.46,73.16,0.0
+26175,2023,Qatar Grand Prix,Pérez,Red Bull,0,10,31.46,73.16,0.0
+26176,2023,Qatar Grand Prix,Stroll,Aston Martin,16,11,31.46,73.16,0.0
+26177,2023,Qatar Grand Prix,Gasly,Alpine F1 Team,7,12,31.46,73.16,0.0
+26178,2023,Qatar Grand Prix,Albon,Williams,13,13,31.46,73.16,0.0
+26186,2023,United States Grand Prix,Verstappen,Red Bull,6,1,29.96,41.91,0.0
+26187,2023,United States Grand Prix,Norris,McLaren,2,2,29.96,41.91,0.0
+26188,2023,United States Grand Prix,Sainz,Ferrari,4,3,29.96,41.91,0.0
+26189,2023,United States Grand Prix,Pérez,Red Bull,9,4,29.96,41.91,0.0
+26190,2023,United States Grand Prix,Russell,Mercedes,5,5,29.96,41.91,0.0
+26191,2023,United States Grand Prix,Gasly,Alpine F1 Team,7,6,29.96,41.91,0.0
+26192,2023,United States Grand Prix,Stroll,Aston Martin,0,7,29.96,41.91,0.0
+26193,2023,United States Grand Prix,Tsunoda,AlphaTauri,11,8,29.96,41.91,0.0
+26194,2023,United States Grand Prix,Albon,Williams,15,9,29.96,41.91,0.0
+26195,2023,United States Grand Prix,Sargeant,Williams,16,10,29.96,41.91,0.0
+26196,2023,United States Grand Prix,Hülkenberg,Haas F1 Team,0,11,29.96,41.91,0.0
+26197,2023,United States Grand Prix,Bottas,Alfa Romeo,13,12,29.96,41.91,0.0
+26206,2023,Mexico City Grand Prix,Verstappen,Red Bull,3,1,25.55,23.55,0.0
+26207,2023,Mexico City Grand Prix,Hamilton,Mercedes,6,2,25.55,23.55,0.0
+26208,2023,Mexico City Grand Prix,Leclerc,Ferrari,1,3,25.55,23.55,0.0
+26209,2023,Mexico City Grand Prix,Sainz,Ferrari,2,4,25.55,23.55,0.0
+26210,2023,Mexico City Grand Prix,Norris,McLaren,17,5,25.55,23.55,0.0
+26211,2023,Mexico City Grand Prix,Russell,Mercedes,8,6,25.55,23.55,0.0
+26212,2023,Mexico City Grand Prix,Ricciardo,AlphaTauri,4,7,25.55,23.55,0.0
+26213,2023,Mexico City Grand Prix,Piastri,McLaren,7,8,25.55,23.55,0.0
+26214,2023,Mexico City Grand Prix,Albon,Williams,14,9,25.55,23.55,0.0
+26215,2023,Mexico City Grand Prix,Ocon,Alpine F1 Team,15,10,25.55,23.55,0.0
+26216,2023,Mexico City Grand Prix,Gasly,Alpine F1 Team,11,11,25.55,23.55,0.0
+26217,2023,Mexico City Grand Prix,Tsunoda,AlphaTauri,18,12,25.55,23.55,0.0
+26218,2023,Mexico City Grand Prix,Hülkenberg,Haas F1 Team,12,13,25.55,23.55,0.0
+26219,2023,Mexico City Grand Prix,Zhou,Alfa Romeo,10,14,25.55,23.55,0.0
+26220,2023,Mexico City Grand Prix,Bottas,Alfa Romeo,9,15,25.55,23.55,0.0
+26226,2023,São Paulo Grand Prix,Verstappen,Red Bull,1,1,20.46,58.17,0.01
+26227,2023,São Paulo Grand Prix,Norris,McLaren,6,2,20.46,58.17,0.01
+26228,2023,São Paulo Grand Prix,Alonso,Aston Martin,4,3,20.46,58.17,0.01
+26229,2023,São Paulo Grand Prix,Pérez,Red Bull,9,4,20.46,58.17,0.01
+26230,2023,São Paulo Grand Prix,Stroll,Aston Martin,3,5,20.46,58.17,0.01
+26231,2023,São Paulo Grand Prix,Sainz,Ferrari,7,6,20.46,58.17,0.01
+26232,2023,São Paulo Grand Prix,Gasly,Alpine F1 Team,15,7,20.46,58.17,0.01
+26233,2023,São Paulo Grand Prix,Hamilton,Mercedes,5,8,20.46,58.17,0.01
+26234,2023,São Paulo Grand Prix,Tsunoda,AlphaTauri,16,9,20.46,58.17,0.01
+26246,2023,Las Vegas Grand Prix,Verstappen,Red Bull,2,1,18.05,47.36,0.0
+26247,2023,Las Vegas Grand Prix,Leclerc,Ferrari,1,2,18.05,47.36,0.0
+26248,2023,Las Vegas Grand Prix,Pérez,Red Bull,11,3,18.05,47.36,0.0
+26249,2023,Las Vegas Grand Prix,Ocon,Alpine F1 Team,16,4,18.05,47.36,0.0
+26250,2023,Las Vegas Grand Prix,Stroll,Aston Martin,19,5,18.05,47.36,0.0
+26251,2023,Las Vegas Grand Prix,Sainz,Ferrari,12,6,18.05,47.36,0.0
+26252,2023,Las Vegas Grand Prix,Hamilton,Mercedes,10,7,18.05,47.36,0.0
+26253,2023,Las Vegas Grand Prix,Russell,Mercedes,3,8,18.05,47.36,0.0
+26254,2023,Las Vegas Grand Prix,Alonso,Aston Martin,9,9,18.05,47.36,0.0
+26255,2023,Las Vegas Grand Prix,Piastri,McLaren,18,10,18.05,47.36,0.0
+26256,2023,Las Vegas Grand Prix,Gasly,Alpine F1 Team,4,11,18.05,47.36,0.0
+26257,2023,Las Vegas Grand Prix,Albon,Williams,5,12,18.05,47.36,0.0
+26258,2023,Las Vegas Grand Prix,Magnussen,Haas F1 Team,8,13,18.05,47.36,0.0
+26259,2023,Las Vegas Grand Prix,Ricciardo,AlphaTauri,14,14,18.05,47.36,0.0
+26260,2023,Las Vegas Grand Prix,Zhou,Alfa Romeo,17,15,18.05,47.36,0.0
+26261,2023,Las Vegas Grand Prix,Sargeant,Williams,6,16,18.05,47.36,0.0
+26262,2023,Las Vegas Grand Prix,Bottas,Alfa Romeo,7,17,18.05,47.36,0.0
+26266,2023,Abu Dhabi Grand Prix,Verstappen,Red Bull,1,1,26.96,51.0,0.0
+26267,2023,Abu Dhabi Grand Prix,Leclerc,Ferrari,2,2,26.96,51.0,0.0
+26268,2023,Abu Dhabi Grand Prix,Russell,Mercedes,4,3,26.96,51.0,0.0
+26269,2023,Abu Dhabi Grand Prix,Pérez,Red Bull,9,4,26.96,51.0,0.0
+26270,2023,Abu Dhabi Grand Prix,Norris,McLaren,5,5,26.96,51.0,0.0
+26271,2023,Abu Dhabi Grand Prix,Piastri,McLaren,3,6,26.96,51.0,0.0
+26272,2023,Abu Dhabi Grand Prix,Alonso,Aston Martin,7,7,26.96,51.0,0.0
+26273,2023,Abu Dhabi Grand Prix,Tsunoda,AlphaTauri,6,8,26.96,51.0,0.0
+26274,2023,Abu Dhabi Grand Prix,Hamilton,Mercedes,11,9,26.96,51.0,0.0
+26275,2023,Abu Dhabi Grand Prix,Stroll,Aston Martin,13,10,26.96,51.0,0.0
+26276,2023,Abu Dhabi Grand Prix,Ricciardo,AlphaTauri,15,11,26.96,51.0,0.0
+26277,2023,Abu Dhabi Grand Prix,Ocon,Alpine F1 Team,12,12,26.96,51.0,0.0
+26278,2023,Abu Dhabi Grand Prix,Gasly,Alpine F1 Team,10,13,26.96,51.0,0.0
+26279,2023,Abu Dhabi Grand Prix,Albon,Williams,14,14,26.96,51.0,0.0
+26280,2023,Abu Dhabi Grand Prix,Hülkenberg,Haas F1 Team,8,15,26.96,51.0,0.0
+26281,2023,Abu Dhabi Grand Prix,Sargeant,Williams,20,16,26.96,51.0,0.0
+26282,2023,Abu Dhabi Grand Prix,Zhou,Alfa Romeo,19,17,26.96,51.0,0.0
+26286,2024,Bahrain Grand Prix,Verstappen,Red Bull,1,1,18.23,48.82,0.0
+26287,2024,Bahrain Grand Prix,Pérez,Red Bull,5,2,18.23,48.82,0.0
+26288,2024,Bahrain Grand Prix,Sainz,Ferrari,4,3,18.23,48.82,0.0
+26289,2024,Bahrain Grand Prix,Leclerc,Ferrari,2,4,18.23,48.82,0.0
+26290,2024,Bahrain Grand Prix,Russell,Mercedes,3,5,18.23,48.82,0.0
+26291,2024,Bahrain Grand Prix,Norris,McLaren,7,6,18.23,48.82,0.0
+26292,2024,Bahrain Grand Prix,Hamilton,Mercedes,9,7,18.23,48.82,0.0
+26293,2024,Bahrain Grand Prix,Piastri,McLaren,8,8,18.23,48.82,0.0
+26294,2024,Bahrain Grand Prix,Alonso,Aston Martin,6,9,18.23,48.82,0.0
+26295,2024,Bahrain Grand Prix,Stroll,Aston Martin,12,10,18.23,48.82,0.0
+26306,2024,Saudi Arabian Grand Prix,Verstappen,Red Bull,1,1,25.53,62.34,0.0
+26307,2024,Saudi Arabian Grand Prix,Pérez,Red Bull,3,2,25.53,62.34,0.0
+26308,2024,Saudi Arabian Grand Prix,Leclerc,Ferrari,2,3,25.53,62.34,0.0
+26309,2024,Saudi Arabian Grand Prix,Piastri,McLaren,5,4,25.53,62.34,0.0
+26310,2024,Saudi Arabian Grand Prix,Alonso,Aston Martin,4,5,25.53,62.34,0.0
+26311,2024,Saudi Arabian Grand Prix,Russell,Mercedes,7,6,25.53,62.34,0.0
+26312,2024,Saudi Arabian Grand Prix,Bearman,Ferrari,11,7,25.53,62.34,0.0
+26313,2024,Saudi Arabian Grand Prix,Norris,McLaren,6,8,25.53,62.34,0.0
+26314,2024,Saudi Arabian Grand Prix,Hamilton,Mercedes,8,9,25.53,62.34,0.0
+26315,2024,Saudi Arabian Grand Prix,Hülkenberg,Haas F1 Team,15,10,25.53,62.34,0.0
+26316,2024,Saudi Arabian Grand Prix,Albon,Williams,12,11,25.53,62.34,0.0
+26317,2024,Saudi Arabian Grand Prix,Magnussen,Haas F1 Team,13,12,25.53,62.34,0.0
+26326,2024,Australian Grand Prix,Sainz,Ferrari,2,1,20.62,44.45,0.0
+26327,2024,Australian Grand Prix,Leclerc,Ferrari,4,2,20.62,44.45,0.0
+26328,2024,Australian Grand Prix,Norris,McLaren,3,3,20.62,44.45,0.0
+26329,2024,Australian Grand Prix,Piastri,McLaren,5,4,20.62,44.45,0.0
+26330,2024,Australian Grand Prix,Pérez,Red Bull,6,5,20.62,44.45,0.0
+26331,2024,Australian Grand Prix,Stroll,Aston Martin,9,6,20.62,44.45,0.0
+26332,2024,Australian Grand Prix,Tsunoda,RB F1 Team,8,7,20.62,44.45,0.0
+26333,2024,Australian Grand Prix,Alonso,Aston Martin,10,8,20.62,44.45,0.0
+26334,2024,Australian Grand Prix,Hülkenberg,Haas F1 Team,16,9,20.62,44.45,0.0
+26345,2024,Japanese Grand Prix,Verstappen,Red Bull,1,1,21.69,43.43,0.0
+26346,2024,Japanese Grand Prix,Pérez,Red Bull,2,2,21.69,43.43,0.0
+26347,2024,Japanese Grand Prix,Sainz,Ferrari,4,3,21.69,43.43,0.0
+26348,2024,Japanese Grand Prix,Leclerc,Ferrari,8,4,21.69,43.43,0.0
+26349,2024,Japanese Grand Prix,Norris,McLaren,3,5,21.69,43.43,0.0
+26350,2024,Japanese Grand Prix,Alonso,Aston Martin,5,6,21.69,43.43,0.0
+26351,2024,Japanese Grand Prix,Russell,Mercedes,9,7,21.69,43.43,0.0
+26352,2024,Japanese Grand Prix,Piastri,McLaren,6,8,21.69,43.43,0.0
+26353,2024,Japanese Grand Prix,Hamilton,Mercedes,7,9,21.69,43.43,0.0
+26365,2024,Chinese Grand Prix,Verstappen,Red Bull,1,1,18.64,66.06,0.0
+26366,2024,Chinese Grand Prix,Norris,McLaren,4,2,18.64,66.06,0.0
+26367,2024,Chinese Grand Prix,Pérez,Red Bull,2,3,18.64,66.06,0.0
+26368,2024,Chinese Grand Prix,Leclerc,Ferrari,6,4,18.64,66.06,0.0
+26369,2024,Chinese Grand Prix,Sainz,Ferrari,7,5,18.64,66.06,0.0
+26370,2024,Chinese Grand Prix,Russell,Mercedes,8,6,18.64,66.06,0.0
+26371,2024,Chinese Grand Prix,Alonso,Aston Martin,3,7,18.64,66.06,0.0
+26372,2024,Chinese Grand Prix,Piastri,McLaren,5,8,18.64,66.06,0.0
+26373,2024,Chinese Grand Prix,Hamilton,Mercedes,18,9,18.64,66.06,0.0
+26374,2024,Chinese Grand Prix,Hülkenberg,Haas F1 Team,9,10,18.64,66.06,0.0
+26375,2024,Chinese Grand Prix,Ocon,Alpine F1 Team,13,11,18.64,66.06,0.0
+26376,2024,Chinese Grand Prix,Albon,Williams,14,12,18.64,66.06,0.0
+26377,2024,Chinese Grand Prix,Gasly,Alpine F1 Team,15,13,18.64,66.06,0.0
+26378,2024,Chinese Grand Prix,Zhou,Sauber,16,14,18.64,66.06,0.0
+26379,2024,Chinese Grand Prix,Stroll,Aston Martin,11,15,18.64,66.06,0.0
+26380,2024,Chinese Grand Prix,Magnussen,Haas F1 Team,17,16,18.64,66.06,0.0
+26381,2024,Chinese Grand Prix,Sargeant,Williams,20,17,18.64,66.06,0.0
+26385,2024,Miami Grand Prix,Norris,McLaren,5,1,28.52,59.01,0.0
+26386,2024,Miami Grand Prix,Verstappen,Red Bull,1,2,28.52,59.01,0.0
+26387,2024,Miami Grand Prix,Leclerc,Ferrari,2,3,28.52,59.01,0.0
+26388,2024,Miami Grand Prix,Pérez,Red Bull,4,4,28.52,59.01,0.0
+26389,2024,Miami Grand Prix,Sainz,Ferrari,3,5,28.52,59.01,0.0
+26390,2024,Miami Grand Prix,Hamilton,Mercedes,8,6,28.52,59.01,0.0
+26391,2024,Miami Grand Prix,Tsunoda,RB F1 Team,10,7,28.52,59.01,0.0
+26392,2024,Miami Grand Prix,Russell,Mercedes,7,8,28.52,59.01,0.0
+26393,2024,Miami Grand Prix,Alonso,Aston Martin,15,9,28.52,59.01,0.0
+26394,2024,Miami Grand Prix,Ocon,Alpine F1 Team,13,10,28.52,59.01,0.0
+26395,2024,Miami Grand Prix,Hülkenberg,Haas F1 Team,9,11,28.52,59.01,0.0
+26396,2024,Miami Grand Prix,Gasly,Alpine F1 Team,12,12,28.52,59.01,0.0
+26397,2024,Miami Grand Prix,Piastri,McLaren,6,13,28.52,59.01,0.0
+26398,2024,Miami Grand Prix,Zhou,Sauber,19,14,28.52,59.01,0.0
+26399,2024,Miami Grand Prix,Ricciardo,RB F1 Team,20,15,28.52,59.01,0.0
+26400,2024,Miami Grand Prix,Bottas,Sauber,16,16,28.52,59.01,0.0
+26401,2024,Miami Grand Prix,Stroll,Aston Martin,11,17,28.52,59.01,0.0
+26402,2024,Miami Grand Prix,Albon,Williams,14,18,28.52,59.01,0.0
+26403,2024,Miami Grand Prix,Magnussen,Haas F1 Team,18,19,28.52,59.01,0.0
+26405,2024,Emilia Romagna Grand Prix,Verstappen,Red Bull,1,1,25.11,48.43,0.0
+26406,2024,Emilia Romagna Grand Prix,Norris,McLaren,2,2,25.11,48.43,0.0
+26407,2024,Emilia Romagna Grand Prix,Leclerc,Ferrari,3,3,25.11,48.43,0.0
+26408,2024,Emilia Romagna Grand Prix,Piastri,McLaren,5,4,25.11,48.43,0.0
+26409,2024,Emilia Romagna Grand Prix,Sainz,Ferrari,4,5,25.11,48.43,0.0
+26410,2024,Emilia Romagna Grand Prix,Hamilton,Mercedes,8,6,25.11,48.43,0.0
+26411,2024,Emilia Romagna Grand Prix,Russell,Mercedes,6,7,25.11,48.43,0.0
+26412,2024,Emilia Romagna Grand Prix,Pérez,Red Bull,11,8,25.11,48.43,0.0
+26413,2024,Emilia Romagna Grand Prix,Stroll,Aston Martin,13,9,25.11,48.43,0.0
+26445,2024,Canadian Grand Prix,Verstappen,Red Bull,2,1,17.8,73.38,0.27
+26446,2024,Canadian Grand Prix,Norris,McLaren,3,2,17.8,73.38,0.27
+26447,2024,Canadian Grand Prix,Russell,Mercedes,1,3,17.8,73.38,0.27
+26448,2024,Canadian Grand Prix,Hamilton,Mercedes,7,4,17.8,73.38,0.27
+26449,2024,Canadian Grand Prix,Piastri,McLaren,4,5,17.8,73.38,0.27
+26450,2024,Canadian Grand Prix,Alonso,Aston Martin,6,6,17.8,73.38,0.27
+26451,2024,Canadian Grand Prix,Stroll,Aston Martin,9,7,17.8,73.38,0.27
+26452,2024,Canadian Grand Prix,Ricciardo,RB F1 Team,5,8,17.8,73.38,0.27
+26453,2024,Canadian Grand Prix,Gasly,Alpine F1 Team,15,9,17.8,73.38,0.27
+26454,2024,Canadian Grand Prix,Ocon,Alpine F1 Team,18,10,17.8,73.38,0.27
+26455,2024,Canadian Grand Prix,Hülkenberg,Haas F1 Team,17,11,17.8,73.38,0.27
+26456,2024,Canadian Grand Prix,Magnussen,Haas F1 Team,14,12,17.8,73.38,0.27
+26457,2024,Canadian Grand Prix,Bottas,Sauber,0,13,17.8,73.38,0.27
+26458,2024,Canadian Grand Prix,Tsunoda,RB F1 Team,8,14,17.8,73.38,0.27
+26465,2024,Spanish Grand Prix,Verstappen,Red Bull,2,1,24.13,63.44,0.01
+26466,2024,Spanish Grand Prix,Norris,McLaren,1,2,24.13,63.44,0.01
+26467,2024,Spanish Grand Prix,Hamilton,Mercedes,3,3,24.13,63.44,0.01
+26468,2024,Spanish Grand Prix,Russell,Mercedes,4,4,24.13,63.44,0.01
+26469,2024,Spanish Grand Prix,Leclerc,Ferrari,5,5,24.13,63.44,0.01
+26470,2024,Spanish Grand Prix,Sainz,Ferrari,6,6,24.13,63.44,0.01
+26471,2024,Spanish Grand Prix,Piastri,McLaren,9,7,24.13,63.44,0.01
+26472,2024,Spanish Grand Prix,Pérez,Red Bull,11,8,24.13,63.44,0.01
+26473,2024,Spanish Grand Prix,Gasly,Alpine F1 Team,7,9,24.13,63.44,0.01
+26474,2024,Spanish Grand Prix,Ocon,Alpine F1 Team,8,10,24.13,63.44,0.01
+26475,2024,Spanish Grand Prix,Hülkenberg,Haas F1 Team,13,11,24.13,63.44,0.01
+26485,2024,Austrian Grand Prix,Russell,Mercedes,3,1,29.43,35.01,0.01
+26486,2024,Austrian Grand Prix,Piastri,McLaren,7,2,29.43,35.01,0.01
+26487,2024,Austrian Grand Prix,Sainz,Ferrari,4,3,29.43,35.01,0.01
+26488,2024,Austrian Grand Prix,Hamilton,Mercedes,5,4,29.43,35.01,0.01
+26489,2024,Austrian Grand Prix,Verstappen,Red Bull,1,5,29.43,35.01,0.01
+26490,2024,Austrian Grand Prix,Hülkenberg,Haas F1 Team,9,6,29.43,35.01,0.01
+26491,2024,Austrian Grand Prix,Pérez,Red Bull,8,7,29.43,35.01,0.01
+26492,2024,Austrian Grand Prix,Magnussen,Haas F1 Team,12,8,29.43,35.01,0.01
+26493,2024,Austrian Grand Prix,Ricciardo,RB F1 Team,11,9,29.43,35.01,0.01
+26494,2024,Austrian Grand Prix,Gasly,Alpine F1 Team,13,10,29.43,35.01,0.01
+26495,2024,Austrian Grand Prix,Leclerc,Ferrari,6,11,29.43,35.01,0.01
+26496,2024,Austrian Grand Prix,Ocon,Alpine F1 Team,10,12,29.43,35.01,0.01
