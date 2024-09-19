@@ -1,0 +1,33 @@
+Your installed package `nvidia-ml-py` is corrupted. Skip patch functions `nvmlDeviceGet{Compute,Graphics,MPSCompute}RunningProcesses`. You may get incorrect or incomplete results. Please consider reinstall package `nvidia-ml-py` via `pip3 install --force-reinstall nvidia-ml-py nvitop`.
+Your installed package `nvidia-ml-py` is corrupted. Skip patch functions `nvmlDeviceGetMemoryInfo`. You may get incorrect or incomplete results. Please consider reinstall package `nvidia-ml-py` via `pip3 install --force-reinstall nvidia-ml-py nvitop`.
+INFO     | 2024-09-19 10:51:29 | autotrain.app.ui_routes:<module>:32 - Starting AutoTrain...
+INFO     | 2024-09-19 10:51:38 | autotrain.app.ui_routes:<module>:298 - AutoTrain started successfully
+INFO     | 2024-09-19 10:51:38 | autotrain.app.app:<module>:13 - Starting AutoTrain...
+INFO     | 2024-09-19 10:51:38 | autotrain.app.app:<module>:23 - AutoTrain version: 0.8.19
+INFO     | 2024-09-19 10:51:38 | autotrain.app.app:<module>:24 - AutoTrain started successfully
+INFO:     Started server process [16562]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:53196 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53196 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53199 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53199 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO     | 2024-09-19 10:51:55 | autotrain.app.ui_routes:fetch_params:381 - Task: tabular:classification
+INFO:     127.0.0.1:53203 - "GET /ui/params/tabular%3Aclassification/basic HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53199 - "GET /ui/model_choices/tabular%3Aclassification HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53199 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53203 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53203 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53203 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53211 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53211 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53215 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53211 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53211 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53211 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53219 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53219 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53224 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53219 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53224 - "GET /ui/is_model_training HTTP/1.1" 200 OK

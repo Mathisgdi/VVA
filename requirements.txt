@@ -1,0 +1,10 @@
+pandas
+datetime
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+fastf1
+joblib
+fastapi
