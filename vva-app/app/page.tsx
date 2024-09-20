@@ -28,20 +28,20 @@ const initialRows: RowData[] = [
     {id: '3', surname: 'Leclerc', constructor: 'Ferrari'},
     {id: '4', surname: 'Piastri', constructor: 'McLaren'},
     {id: '5', surname: 'Sainz', constructor: 'Ferrari'},
-    {id: '6', surname: 'Colapinto', constructor: 'Mercedes'},
+    {id: '6', surname: 'Sargeant', constructor: 'Williams'},
     {id: '7', surname: 'Russell', constructor: 'Mercedes'},
     {id: '8', surname: 'Pérez', constructor: 'Red Bull'},
     {id: '9', surname: 'Stroll', constructor: 'Aston Martin'},
     {id: '10', surname: 'Alonso', constructor: 'Aston Martin'},
     {id: '11', surname: 'Albon', constructor: 'Williams'},
-    {id: '12', surname: 'Bearman', constructor: 'Ferrari'},
+    {id: '12', surname: 'Sainz', constructor: 'Ferrari'},
     {id: '13', surname: 'Tsunoda', constructor: 'RB F1 Team'},
-    {id: '14', surname: 'Hülkenberg', constructor: 'Haas Ferrari'},
+    {id: '14', surname: 'Hülkenberg', constructor: 'Haas'},
     {id: '15', surname: 'Ricciardo', constructor: 'RB F1 Team'},
     {id: '16', surname: 'Bottas', constructor: 'Sauber'},
-    {id: '17', surname: 'Gasly', constructor: 'Alpine Renault'},
+    {id: '17', surname: 'Gasly', constructor: 'Alpine'},
     {id: '18', surname: 'Guanyu', constructor: 'Sauber'},
-    {id: '19', surname: 'Ocon', constructor: 'Alpine Renault'},
+    {id: '19', surname: 'Ocon', constructor: 'Alpine'},
     {id: '20', surname: 'Hamilton', constructor: 'Mercedes'},
 ];
 
@@ -83,7 +83,9 @@ export default function Home() {
 
     const [rows, setRows] = useState(initialRows);
     const [positions, setPositions] = useState([]);
-    const [response, setResponse] = useState(null); // Nouvel état pour stocker la réponse
+    const [response, setResponse] = useState(null);
+    const [isLoading, setIsLoading] = useState(false); // Nouvel état pour le chargement
+
 
 
     // Fonction pour déplacer les lignes
@@ -106,7 +108,7 @@ export default function Home() {
     }, [rows]);
 
     const handleSubmit = async () => {
-
+        setIsLoading(true); // Début du chargement
         const dataToSend = {
             date,
             grandPrix,
@@ -115,7 +117,6 @@ export default function Home() {
             airTemp,
             positions,
         };
-
         try {
             const response = await axios.post('http://127.0.0.1:8080/predict', dataToSend);
             console.log('Réponse du serveur :', response.data);
@@ -123,15 +124,17 @@ export default function Home() {
 
         } catch (error) {
             console.error('Erreur lors de la requête POST :', error);
+        }finally {
+            setIsLoading(false); // Fin du chargement
         }
     };
 
     return (
         <div>
             <header className="bg-red-600 text-white p-4 z-1">
-                <div className="flex items-center max-w-6xl mx-auto gap-72">
-                    <NexImage src="/F1_logo.jpg" alt="F1 Logo" width={150} height={100} className='z-10'/>
-                    <h1 className="text-3xl font-bold text-center">F1 Race Prediction</h1>
+                <div className="flex items-center max-w-6xl mx-auto gap-64">
+                    <NexImage src="/F1_logo.png" alt="F1 Logo" width={200} height={100} className='z-10'/>
+                    <h1 className="text-4xl font-bold text-center">F1 Race Prediction</h1>
                 </div>
             </header>
             <div className='flex flex-col justify-center items-center mb-72'>
@@ -211,7 +214,9 @@ export default function Home() {
                     </div>
                 </DndProvider>
                 <Button className='mt-10 w-[200px] text-xl' variant="destructive"
-                        onClick={handleSubmit}>Predict</Button>
+                        onClick={handleSubmit}  disabled={isLoading} >{isLoading ? 'Loading...' : 'Predict'}</Button>
+
+
                 {response && (
                     <div className="mt-4 p-4 border border-gray-300 rounded">
                         <h2 className="text-xl font-bold">Predicted Positions:</h2>
