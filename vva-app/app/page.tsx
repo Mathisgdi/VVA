@@ -75,14 +75,12 @@ const DraggableTableRow = ({id, index, moveRow, children}: any) => {
 };
 
 export default function Home() {
-    // États pour les sélections
     const [date, setDate] = useState('');
     const [grandPrix, setGrandPrix] = useState('');
     const [rainfall, setRainfall] = useState('');
     const [humidity, setHumidity] = useState('');
     const [airTemp, setAirTemp] = useState('');
 
-    // État pour les lignes de la table
     const [rows, setRows] = useState(initialRows);
     const [positions, setPositions] = useState([]);
     const [response, setResponse] = useState(null); // Nouvel état pour stocker la réponse
@@ -107,7 +105,6 @@ export default function Home() {
         })));
     }, [rows]);
 
-    // Fonction pour envoyer les données via POST
     const handleSubmit = async () => {
 
         const dataToSend = {
@@ -220,7 +217,7 @@ export default function Home() {
                         <h2 className="text-xl font-bold">Predicted Positions:</h2>
                         <ul>
                             {response.predicted_positions.map((position: string, index: number) => (
-                                <li key={index}>{index} : {position}</li>
+                                <li key={index}>{index + 1} : {position}</li>
                             ))}
                         </ul>
                     </div>

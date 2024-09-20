@@ -3,16 +3,14 @@ from pydantic import BaseModel
 import pandas as pd
 import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
-
 import joblib
-from xarray.util.generate_ops import inplace
 
 # Charger le modèle
 model = joblib.load('VVA-class100/model.joblib')
 
 app = FastAPI()
 
-app.add_middleware(
+app.add_middleware( # je suis obliugé de faire ça pour que ça marche car en Next.js quand je fais une requête POST, cela fait d'abord une requête OPTIONS car mon API est sur un domaine et port différent de celui de Next.js
     CORSMiddleware,
     allow_origins=["*"],  # Permet à tous les domaines de faire des requêtes
     allow_credentials=True,
@@ -54,7 +52,6 @@ def assign_unique_positions(probabilities):
 
 @app.post("/predict")
 async def predict(data: DriverData):
-    # Convertir les données JSON en DataFrame
     print(data)
     positions_data = pd.DataFrame(data.positions) # Convertit la liste des positions en DataFrame
 
@@ -72,16 +69,10 @@ async def predict(data: DriverData):
     predictions_proba = model.predict_proba(positions_data)
     # Convertir les probabilités en liste
     predictions_proba = predictions_proba.tolist()
-    print(predictions_proba)
 
-    # Attribuer des positions uniques
     unique_positions = assign_unique_positions(np.array(predictions_proba))
     unique_positions = list(map(int, unique_positions))
     print(unique_positions)
-    print(positions_data['surname'])
-    # List of unique positions
-    unique_positions = [1, 2, 4, 3, 5, 6, 7, 9, 10, 8, 11, 12, 15, 16, 13, 14, 17, 19, 18, 20]
-
     # DataFrame with surnames
     surnames = positions_data['surname'].tolist()
 
@@ -93,6 +84,5 @@ async def predict(data: DriverData):
         ordered_surnames[position - 1] = surnames[index]
 
     print(ordered_surnames)
-    # Retourner les résultats sous forme de JSON
     return {"predicted_positions": ordered_surnames}
 
