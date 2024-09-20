@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/opt/anaconda3/lib/python3.12/site-packages/intake/cli/sample/states_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
